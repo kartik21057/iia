@@ -1,0 +1,15 @@
+INSERT INTO `Airlines table` VALUES
+(1,'AirAsia India Airline','INDIA',4.3),
+(2,'Air India Airline','INDIA',4.8),
+(3,'Air India Express Airline','INDIA',4.8),
+(4,'Go First Airline','INDIA',4.9),
+(5,'IndiGo Airline','INDIA',4.4),
+(6,'SpiceJet','INDIA',3.8),
+(7,'Vistara','INDIA',3.5),
+(8,'Alliance Air','INDIA',4.5),
+(9,'FlyBig','INDIA',3.4),
+(10,'Star Air','INDIA',3.2),
+(11,'TruJet','INDIA',3.1),
+(12,'Dove Airlines','INDIA',3.9),
+(13,'Blue Dart Aviation','INDIA',3.3),
+(14,'Quikjet Airlines','INDIA',4.5);

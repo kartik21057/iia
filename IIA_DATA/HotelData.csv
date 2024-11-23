@@ -1,0 +1,307 @@
+hotel_ID,hotel_name,address,city,Capacity,Rating,Description,photourl
+1,The Oberoi Cecil,"""Ambedkar ChowkChaura Maidan, Shimla - 171004, HIMACHAL PRADESH""",HIMACHAL PRADESH,75,4.0,Sample description for The Oberoi Cecil,https://example.com/photo1
+2,The Lalit Grand Palace,"""Gupkar Road, Srinagar, JAMMU AND KASHMIR""",JAMMU AND KASHMIR,112,2.3,Sample description for The Lalit Grand Palace,https://example.com/photo2
+3,Hotel Fateh Prakash Palace,"""The City Palace Complex, Udaipur - 313001, RAJASTHAN""",RAJASTHAN,30,3.1,Sample description for Hotel Fateh Prakash Palace,https://example.com/photo3
+4,Shiv Niwas Palace,"""The City Palace ComplexUdaipur, Udaipur, RAJASTHAN""",RAJASTHAN,36,4.7,Sample description for Shiv Niwas Palace,https://example.com/photo4
+5,Savoy Hotel ,"""77, Sylks Road, Ootacamund, TAMIL NADU""",TAMIL NADU,40,3.8,Sample description for Savoy Hotel ,https://example.com/photo5
+6,Raheem Residency,"""20/1100Beach Road, Alleppey West - 688 012, KERALA""",KERALA,10,3.1,Sample description for Raheem Residency,https://example.com/photo6
+7,Noor Us Sabah Palace,"""V.I.P.RoadKoh-E-Fiza, Bhopal - 462001, MADHYA PRADESH""",MADHYA PRADESH,57,4.1,Sample description for Noor Us Sabah Palace,https://example.com/photo7
+8,The Panjim Inn ,"""31-ST JANUARY ROAD, FONTAINHAS, PANAJI, Panaji , GOA""",GOA,15,4.9,Sample description for The Panjim Inn ,https://example.com/photo8
+9,Balaram Palace Resort,"""Chitrassani Village,off Abu Palanpur Highway No.14 Banaskantha, BANASKANTHA, GUJARAT""",GUJARAT,22,4.9,Sample description for Balaram Palace Resort,https://example.com/photo9
+10,Nilambag Palace Hotel,"""Bhavnagar, Bhavnagar, GUJARAT""",GUJARAT,28,2.0,Sample description for Nilambag Palace Hotel,https://example.com/photo10
+11,The Fort Ramgarh,"""Ramgarh, Panchkula On NH - 73 Delhi Shimla Highway, Near Chandigarh, Panchkula Distt., HARYANA""",HARYANA,12,2.5,Sample description for The Fort Ramgarh,https://example.com/photo11
+12,The Judges Court,"""Heritage VillageParagpur, Distt. - Kangra - 177107, HIMACHAL PRADESH""",HIMACHAL PRADESH,10,1.8,Sample description for The Judges Court,https://example.com/photo12
+13,The Palace,"""Chail, Solan,HIMACHAL PRADESH""",HIMACHAL PRADESH,31,2.0,Sample description for The Palace,https://example.com/photo13
+14,The Castle Naggar,"""Naggar, Distt. Kullu - 175130, HIMACHAL PRADESH""",HIMACHAL PRADESH,17,4.6,Sample description for The Castle Naggar,https://example.com/photo14
+15,Hotel Cherthala House,"""Court JunctionEast of P.M.C. - 5, cherthala - 688 524, KERALA""",KERALA,5,2.2,Sample description for Hotel Cherthala House,https://example.com/photo15
+16,Heritaga Methanam,"""K P XI / 298Near Perumpadappu, Kumbalanghi Bridge, Kumbalanghi P.O., Kochi - 682 007, KERALA""",KERALA,7,1.5,Sample description for Heritaga Methanam,https://example.com/photo16
+17,Old Lighthouse Bristow Hotel ,"""Beach Road Next to SBI Training Center Fort Kochi , Cochin , KERALA""",KERALA,11,2.9,Sample description for Old Lighthouse Bristow Hotel ,https://example.com/photo17
+18,Hotel Le Colonial ,"""1/215, Church Road, Vasco-da-Gama Square, Fort Cochin , KERALA""",KERALA,8,4.0,Sample description for Hotel Le Colonial ,https://example.com/photo18
+19,Kunnathur Mana Ayurveda Heritage,"""Door No.VIII/666 Punnayurkulam P.O. Thrissur Dist, Kerala, KERALA""",KERALA,7,3.3,Sample description for Kunnathur Mana Ayurveda Heritage,https://example.com/photo19
+20,Old Harbour Hotel,"""No-1/328, Tower Road, Fort Kochi , Kochi , KERALA""",KERALA,13,4.1,Sample description for Old Harbour Hotel,https://example.com/photo20
+21,Coconut Lagoon,"""P.O. Box No. 2Kumarakom, Kottayam - 686563, KERALA""",KERALA,36,3.0,Sample description for Coconut Lagoon,https://example.com/photo21
+22,Beach Hotel,"""(Beach Heritage Inn (P) Ltd.)Beach Road, Kozhikode - 673032, KERALA""",KERALA,6,3.6,Sample description for Beach Hotel,https://example.com/photo22
+23,Palakkad Heritage Hotels,"""Koduvayur P.O.Palakkad, Dist., KERALA """,KERALA,5,3.7,Sample description for Palakkad Heritage Hotels,https://example.com/photo23
+24,Somatheeram Ayurvedic Beach Resort (P) Ltd.,"""P.O. ChowaraVia Balaramapuram, Thiruvananthapuram - 695501, KERALA""",KERALA,42,3.0,Sample description for Somatheeram Ayurvedic Beach Resort (P) Ltd.,https://example.com/photo24
+25,The Hillway Heritage,"""Opp. Police Station, State Highway - 1Kilimanoor P.O., Thiruvananthapuram - 695601, KERALA""",KERALA,6,4.6,Sample description for The Hillway Heritage,https://example.com/photo25
+26,Ahilya Fort ,"""Ahilya Fort, Maheshwar, W Nimar , Bhopal , MADHYA PRADESH""",MADHYA PRADESH,15,4.3,Sample description for Ahilya Fort ,https://example.com/photo26
+27,Hotel Rock End Manor ,"""Pachmarhi Distt. ,HOSHANGABAD , MADHYA PRADESH""",MADHYA PRADESH,6,1.7,Sample description for Hotel Rock End Manor ,https://example.com/photo27
+28,Satpura Retreat,"""Pachmarhi, Dist. Hosangabad, MADHYA PRADESH""",MADHYA PRADESH,6,2.5,Sample description for Satpura Retreat,https://example.com/photo28
+29,Hotel Sheesh Mahal ,"""MPSTDC, Orchha, Tikamgarh Dist. , MADHYA PRADESH""",MADHYA PRADESH,8,2.4,Sample description for Hotel Sheesh Mahal ,https://example.com/photo29
+30,Jehan Numa Palace Hotel ,"""157, SHAMLA HILL(M.P) , Bhopal , MADHYA PRADESH""",MADHYA PRADESH,98,1.3,Sample description for Jehan Numa Palace Hotel ,https://example.com/photo30
+31,LE DUPLEIX ,"""(unit of auberge Heritage Hotels) 5, CASERNE STREET , Pondicherry, PONDICHERRY""",PONDICHERRY,21,2.4,Sample description for LE DUPLEIX ,https://example.com/photo31
+32,Calve,"""A Heritage HotelOld No. 36, New No. 44, Vysial Street, Puducherry - 605 001, PUDUCHERRY""",,11,1.6,Sample description for Calve,https://example.com/photo32
+33,"Welcome Heritage, Khimsar Fort","""Khimsar, RAJASTHAN """,RAJASTHAN ,67,4.8,"Sample description for Welcome Heritage, Khimsar Fort",https://example.com/photo33
+34,The Bagh ,"""Agra Achnara Road Pucca Bagh Bharatpur, Bharatpur, RAJASTHAN """,RAJASTHAN ,29,2.1,Sample description for The Bagh ,https://example.com/photo34
+35,Gajner Palace,"""P.O. GajnerTehsil : Kolayat, Bikaner - 334001, RAJASTHAN""",RAJASTHAN,45,3.6,Sample description for Gajner Palace,https://example.com/photo35
+36,The Laxmi Niwas Palace ,"""(A Unit of Golden Triangle Fort and Palace Pvt. Ltd.) Dr. Karni Singhji Road ,Bikaner ,RAJASTHAN""",RAJASTHAN,24,2.7,Sample description for The Laxmi Niwas Palace ,https://example.com/photo36
+37,Chomu Palace,"""Near Main ChomuBus Stand, Chomu - 303702, RAJASTHAN""",RAJASTHAN ,58,1.5,Sample description for Chomu Palace,https://example.com/photo37
+38,Bissau Palace ,"""Outside Chandpole Gate , Jaipur, RAJASTHAN""",RAJASTHAN ,50,1.8,Sample description for Bissau Palace ,https://example.com/photo38
+39,Deogarh Resorts,"""Deogarh MahalP.O. Deogarh Madariya, Distt. Rajsamand - 313331, RAJASTHAN""",RAJASTHAN ,45,3.8,Sample description for Deogarh Resorts,https://example.com/photo39
+40,Shikarbadi Hotel,"""Goverdhan Vilas, Udaipur - 313001, RAJASTHAN""",RAJASTHAN ,25,1.6,Sample description for Shikarbadi Hotel,https://example.com/photo40
+41,Welcom Heritage - Koolwal Kothi,"""House No. 40,Near Government Hospital RoadNawal Garh District, Jhunjhunu, RAJASTHAN""",RAJASTHAN ,10,3.8,Sample description for Welcom Heritage - Koolwal Kothi,https://example.com/photo41
+42,Ajit Bhawan,"""Near Circuit House, Jodhpur - 342 006, RAJASTHAN""",RAJASTHAN ,70,4.3,Sample description for Ajit Bhawan,https://example.com/photo42
+43,Hotel Samode Palace,"""Village Samode, Dist. Jaipur - 303806, RAJASTHAN""",RAJASTHAN,43,3.4,Sample description for Hotel Samode Palace,https://example.com/photo43
+44,Raj Niwas Palace,"""National Highway-3, Dholpur - 328 001, RAJASTHAN""",RAJASTHAN,20,2.7,Sample description for Raj Niwas Palace,https://example.com/photo44
+45,Hotel Castle Mandawa Pvt.Ltd.,"""MandawaJhunjhunu District, Shekhawati - 333704, RAJASTHAN""",RAJASTHAN,70,2.9,Sample description for Hotel Castle Mandawa Pvt.Ltd.,https://example.com/photo45
+46,Rohet Garh,"""Village P.O RohetDistt. Pali, Rajasthan, RAJASTHAN""",RAJASTHAN,34,2.5,Sample description for Rohet Garh,https://example.com/photo46
+47,Lake Pichola Hotel,"""Piplia Haveli, Out Side ChandpoleUdaipur, Rajasthan, Udaipur, RAJASTHAN""",RAJASTHAN,32,1.2,Sample description for Lake Pichola Hotel,https://example.com/photo47
+48,The Ramgarh Lodge,"""Ramgarh LakeJamwa Ramgarh, Jaipur - 303109, RAJASTHAN""",RAJASTHAN,14,1.2,Sample description for The Ramgarh Lodge,https://example.com/photo48
+49,Hotel Indra Villas ,"""A unit of Desert Heritage Resorts Pvt. Ltd. Ward No.2, Village Alsisar , JHUNJHUNU , RAJASTHAN""",RAJASTHAN,43,2.7,Sample description for Hotel Indra Villas ,https://example.com/photo49
+50,Singhasan Haveli,"""Goenka Chowk, Mandawa,Dist., JHUNJHUNU, RAJASTHAN""",RAJASTHAN,26,4.7,Sample description for Singhasan Haveli,https://example.com/photo50
+51,Fort Khejarla,"""(Aunit of Bhandari Heritage Pvt. Ltd.)Village Khejarla, Via Bilara, Distt. Jodhpur - 342601, RAJASTHAN""",RAJASTHAN,38,1.5,Sample description for Fort Khejarla,https://example.com/photo51
+52,Sardargarh Heritage Hotel ,"""Sardargarh Fort, Village-Lawa Sardargarh Sardargarh, Dist:-Rajsamand , Rajsamand , RAJASTHAN""",RAJASTHAN,24,5.0,Sample description for Sardargarh Heritage Hotel ,https://example.com/photo52
+53,The Sawai Madhopur Lodge,"""Ranthambore National Park Road, Sawai Madhopur - 302 005, RAJASTHAN""",RAJASTHAN,36,2.8,Sample description for The Sawai Madhopur Lodge,https://example.com/photo53
+54,Karni Bhawan Palace ,"""Gandhi Colony Bikaner ,Bikaner ,RAJASTHAN""",RAJASTHAN,12,3.7,Sample description for Karni Bhawan Palace ,https://example.com/photo54
+55,Norkhill Hotel ,"""Stadium Road, Gangtok , SIKKIM""",SIKKIM,25,3.0,Sample description for Norkhill Hotel ,https://example.com/photo55
+56,Visalam,"""7/1/143 LOCAL FUND ROAD, KANADUKATHAN KARAIKUDI, TAMIL NADU, KARAIKUDI, TAMIL NADU""",TAMIL NADU,15,4.1,Sample description for Visalam,https://example.com/photo56
+57,Hotel Fairhavens Holiday Home,"""Adacent to Head Post Office Mallital, Nainital, UTTARAKHAND""",UTTARAKHAND,30,1.2,Sample description for Hotel Fairhavens Holiday Home,https://example.com/photo57
+58,The Naini Retreat,"""Ayarapatta Sloppes, Nainital - 263001, UTTARAKHAND""",UTTARAKHAND,32,1.1,Sample description for The Naini Retreat,https://example.com/photo58
+59,The Elgin Hotel,"""18, H.D. Lama Road, P.O. Darjeeling, WEST BENGAL""",WEST BENGAL,20,3.3,Sample description for The Elgin Hotel,https://example.com/photo59
+60,Taj Falaknuma Palace ,"""Engine Bowli, Falaknuma , Hyderabad, ANDHRA PRADESH""",ANDHRA PRADESH,60,1.5,Sample description for Taj Falaknuma Palace ,https://example.com/photo60
+61,ITC HOTEL KAKATIYA,"""6-3-1187,BEGUMPETnull, Hyderabad, ANDHRA PRADESH""",ANDHRA PRADESH,188,3.8,Sample description for ITC HOTEL KAKATIYA,https://example.com/photo61
+62,Eros Hotel Managed by Hilton,"""S-1American Plaza, International Trade Tower, Nehru Place, New Delhi - 110 019, DELHI""",DELHI,216,3.7,Sample description for Eros Hotel Managed by Hilton,https://example.com/photo62
+63,The Ashok,"""50-BChanakyapuri, New Delhi - 110021, DELHI""",DELHI,550,1.9,Sample description for The Ashok,https://example.com/photo63
+64,Hotel Imperial,"""Janpath, New Delhi - 110001, DELHI""",DELHI,233,1.1,Sample description for Hotel Imperial,https://example.com/photo64
+65,Hyatt Regency Delhi,"""Bhikaji Cama Place, New Delhi - 110066, DELHI""",DELHI,508,3.9,Sample description for Hyatt Regency Delhi,https://example.com/photo65
+66,ITC-The Maurya,"""ITC LimitedDiplomatic Enclave, New Delhi - 110021, DELHI""",DELHI,440,2.8,Sample description for ITC-The Maurya,https://example.com/photo66
+67,Le Meridien Hotel,"""8, Windsor Place Janpath, New Delhinull, New Delhi, DELHI""",DELHI,358,4.4,Sample description for Le Meridien Hotel,https://example.com/photo67
+68,Taj Palace Hotel ,"""Sardar Patel Marg , New Delhi ,DELHI""",DELHI,409,3.6,Sample description for Taj Palace Hotel ,https://example.com/photo68
+69,The Lalit,"""Barakhamba AvenueConnaught Place,New Delhi - 110001, DELHI""",DELHI,457,4.7,Sample description for The Lalit,https://example.com/photo69
+70,The Oberoi -  New Delhi,"""Dr. Zakir Hussain Marg, New Delhi - 110003,DELHI""",DELHI,283,2.8,Sample description for The Oberoi -  New Delhi,https://example.com/photo70
+71,"Aman, New Delhi","""Lodhi Road, New Delhi - 110003, DELHI""",DELHI,68,4.6,"Sample description for Aman, New Delhi",https://example.com/photo71
+72,The Hotel Leela Palace Kempinski,"""Diplomatic Enclave, New Delhi - 110023,DELHI, National Highway No. 8, New Delhi-110037, DELHI""",DELHI,260,3.3,Sample description for The Hotel Leela Palace Kempinski,https://example.com/photo72
+73,Riviera De Goa Resort,"""Shimer VaddoXimer, Arpora - 403 518, GOA""",GOA,104,1.3,Sample description for Riviera De Goa Resort,https://example.com/photo73
+74,Vivanta by Taj - Panaji,"""Off. D.B. Bandodkar RoadSt. Inez, Panaji - 403001, GOA""",GOA,172,1.5,Sample description for Vivanta by Taj - Panaji,https://example.com/photo74
+75,Vivanta by Taj - Holiday,"""(Earlier known as The Taj Holiday Village)Dando, Candolim, Bardez - 403 515, GOA""",GOA,142,4.9,Sample description for Vivanta by Taj - Holiday,https://example.com/photo75
+76,Bell Tower Resorts Pvt.Ltd. ,"""Bell Tower Resorts Pvt.Ltd. (Retreat by Zuri) Pedda, Uttor Doxi, Varca Salcatte-Goa-403721 , Salcete , GOA""",GOA,106,2.0,Sample description for Bell Tower Resorts Pvt.Ltd. ,https://example.com/photo76
+77,Hotel Ramada Caravela Beach Resort,"""Varca Beach, Salcete - 403721, GOA""",GOA,200,2.2,Sample description for Hotel Ramada Caravela Beach Resort,https://example.com/photo77
+78,Vivanta By Taj- Fort Aguada,"""Sinquerim, Bardez - 403519, GOA """,GOA,145,3.5,Sample description for Vivanta By Taj- Fort Aguada,https://example.com/photo78
+79,Th Lalit Golf & Spa Resort Goa,"""(Bharat Hotels Ltd.)Raj Baga,Canacona, GOA""",GOA,225,2.3,Sample description for Th Lalit Golf & Spa Resort Goa,https://example.com/photo79
+80,Resort Rio,"""Resort Rio, Tambudki,Arpora, Bardez, GOA""",GOA,82,2.5,Sample description for Resort Rio,https://example.com/photo80
+81,Hotel Cidade de Goa,"""(Unit of Fomento Resorts & Hotels Ltd.), Vainguinim Beach - 403004, GOA""",GOA,205,3.7,Sample description for Hotel Cidade de Goa,https://example.com/photo81
+82,Majorda Beach Resort,"""MajordaSalcette, Goa - 403713, GOA""",GOA,120,2.7,Sample description for Majorda Beach Resort,https://example.com/photo82
+83,"The Leela Kempinski, Goa","""MoborCavelossim, Salcette - 403731, GOA""",GOA,186,5.0,"Sample description for The Leela Kempinski, Goa",https://example.com/photo83
+84,Hotel Trident - Gurgaon,"""Plot No. 443, Udyog ViharPhase - V, Gurgaon - 122016, HARYANA""",HARYANA,136,4.0,Sample description for Hotel Trident - Gurgaon,https://example.com/photo84
+85,The Leela Kempinski -  Gurgaon,"""(Ambience Hotels & Resorts Ltd.) Village Nathupur, N.H.-8 Gurgaon, Gurgaon, HARYANA""",HARYANA,412,4.5,Sample description for The Leela Kempinski -  Gurgaon,https://example.com/photo85
+86,The Bristol Hotel,"""Adjacent to DLFQutab Enclave Phase - 1, Gurgaon - 122002, HARYANA""",HARYANA,84,3.6,Sample description for The Bristol Hotel,https://example.com/photo86
+87,Wildflower Hall,"""(Mashobara Resort Limited, A Unit of EIH Limited)Chharabra, Shimla - 171 012, HIMACHAL PRADESH""",HIMACHAL PRADESH,85,1.6,Sample description for Wildflower Hall,https://example.com/photo87
+88,Vivanta by Taj -  Whitefield,"""ITBP Whitefield, Bangalore - 560066, KARNATAKA""",KARNATAKA,199,3.9,Sample description for Vivanta by Taj -  Whitefield,https://example.com/photo88
+89,Hotel Golden Palms Hotel & Spa,"""NO-31 & 32 GOLDEN PALMS AVENUE OFF TUMKUR ROAD BANGALORE,  KARNATAKA""",KARNATAKA,170,4.3,Sample description for Hotel Golden Palms Hotel & Spa,https://example.com/photo89
+90,ITC Hotel Windsor & Towers ,"""WINDSOR SQUARE, 25 GOLF COURES ROAD, Bangalore , KARNATAKA""",KARNATAKA,240,1.0,Sample description for ITC Hotel Windsor & Towers ,https://example.com/photo90
+91,The Taj West End,"""Race Course Road Bangalore, KARNATAKA""",KARNATAKA,117,4.6,Sample description for The Taj West End,https://example.com/photo91
+92,Sheraton Banglore at Brigade Gateway,"""26/1, Rajajinagar ExtensionDr. Rajkumar Road, Malleswaram West, Bangalore, KARNATAKA""",KARNATAKA,230,1.0,Sample description for Sheraton Banglore at Brigade Gateway,https://example.com/photo92
+93,The Oberoi Bangalore,"""39 Mahatma Gandhi RoadBanglore-560001, Bangalore, KARNATAKA""",KARNATAKA,160,1.9,Sample description for The Oberoi Bangalore,https://example.com/photo93
+94,Vivanta by Taj -  Bangalore,"""41/3M.G. Road, Bangalore - 560001, KARNATAKA""",KARNATAKA,167,1.9,Sample description for Vivanta by Taj -  Bangalore,https://example.com/photo94
+95,Park Plaza,"""NO. 5 Defence Colony,1st main, Indirangar, KARNATAKA""",KARNATAKA,218,2.4,Sample description for Park Plaza,https://example.com/photo95
+96,Dream Hotel Cochin,"""37/985, C&D, Sahodaran Ayyappan Road Elamkulam Jnction, Kadavanthara cochin-682020, Cochin, KERALA""",KERALA,150,4.9,Sample description for Dream Hotel Cochin,https://example.com/photo96
+97,Vivanta by Taj - Bekal ,"""A Unit of Khanna Hotels PVt. LTd. BRDC Site No. 5, Kappil Beach P.O. Udma West Kasaragod - 671319, Kasaragod , KERALA""",KERALA,73,1.9,Sample description for Vivanta by Taj - Bekal ,https://example.com/photo97
+98,The Lalit Resorts & Spa Bekal,"""Bevoori, Udma, Taluka: Hosedurgh Distt: Kasargod Kerala, Kasaragod , KERALA""",KERALA,39,1.1,Sample description for The Lalit Resorts & Spa Bekal,https://example.com/photo98
+99,Vivanta By Taj - Kovalam,"""(Formerly known as Taj Green Cove Kovalam)G V Raja Vattappara Road, Kovalam, Thiruvananthapuram - 695 527, KERALA""",KERALA,59,4.6,Sample description for Vivanta By Taj - Kovalam,https://example.com/photo99
+100,Vivanta by - Taj Malabar ,"""Willingdon Island , Cochin , KERALA""",KERALA,96,3.0,Sample description for Vivanta by - Taj Malabar ,https://example.com/photo100
+101,The Raviz Kollam,"""Kollam Royal Park Hotel And Resorts P LtdMathilil, Kollam, KERALA""",KERALA,93,2.7,Sample description for The Raviz Kollam,https://example.com/photo101
+102,Kovalam Resort Private Limited,"""The Leela Kovalam,Kerala, Thiruvananthapuram, KERALA""",KERALA,127,2.5,Sample description for Kovalam Resort Private Limited,https://example.com/photo102
+103,The Grand Temple View ,"""Opp. Circuit House , Khajuraho , MADHYA PRADESH""",MADHYA PRADESH,47,2.8,Sample description for The Grand Temple View ,https://example.com/photo103
+104,Hotel Chandela,"""Airport RoadDist. Chhatarpur, Khajuraho - 471606, MADHYA PRADESH""",MADHYA PRADESH,90,1.4,Sample description for Hotel Chandela,https://example.com/photo104
+105,Chalet Hotel,"""Plot no.39/1 6 to 15 Sector 30 AVashi Navi Mumbai, Mumbai, MAHARASHTRA""",MAHARASHTRA,118,4.9,Sample description for Chalet Hotel,https://example.com/photo105
+106,Four Seasons Hotel,"""(Unit of Mogus Estates & Hotels Ltd.) Plot NO.114,Dr.E.Moses Road Worli, Mumbai, MAHARASHTRA""",MAHARASHTRA,202,2.8,Sample description for Four Seasons Hotel,https://example.com/photo106
+107,HOTEL SAHARA STAR ,"""DOMESTIC AIRPORT, VILE PARLE (E), MUMBAI , MAHARASHTRA""",MAHARASHTRA,210,1.6,Sample description for HOTEL SAHARA STAR ,https://example.com/photo107
+108,Hyatt Regency Mumbai,"""Sahar Airport RoadAndheri (East), Mumbai - 400 099, MAHARASHTRA""",MAHARASHTRA,401,2.5,Sample description for Hyatt Regency Mumbai,https://example.com/photo108
+109,Le Royal Meridien ,"""SAHAR AIRPORT ROAD ANDHERI (E) , Mumbai , MAHARASHTRA""",MAHARASHTRA,171,1.3,Sample description for Le Royal Meridien ,https://example.com/photo109
+110,Sun-n-Sand Hotels Pvt. Ltd.,"""39Juhu Beach, Mumbai - 400 049, MAHARASHTRA""",MAHARASHTRA,120,4.5,Sample description for Sun-n-Sand Hotels Pvt. Ltd.,https://example.com/photo110
+111,The Taj Mahal Palace & Tower ,"""Apollo Bunder , Mumbai , MAHARASHTRA""",MAHARASHTRA,565,1.4,Sample description for The Taj Mahal Palace & Tower ,https://example.com/photo111
+112,Hotel Le Meridien,"""R.B.M. Road, Pune - 411001, MAHARASHTRA""",MAHARASHTRA,117,4.5,Sample description for Hotel Le Meridien,https://example.com/photo112
+113,Hotel ITC Grand Central,"""287, Babasaheb Ambedkar RoadParel,Mumbai-400012, MAHARASHTRA""",MAHARASHTRA,242,2.6,Sample description for Hotel ITC Grand Central,https://example.com/photo113
+114,The Leela Kempinski,"""Sahar, Mumbai - 400 059, MAHARASHTRA""",MAHARASHTRA,393,2.8,Sample description for The Leela Kempinski,https://example.com/photo114
+115,"The Oberoi, Mumbai","""Nariman Point, Mumbai - 400021, MAHARASHTRA""",MAHARASHTRA,287,4.5,"Sample description for The Oberoi, Mumbai",https://example.com/photo115
+116,The Westin Mumbai Garden City ,"""Oberoi Garden City, International Business Park, Off Western Express Highway, Goregaon (East) , Mumbai , MAHARASHTRA""",MAHARASHTRA,269,3.0,Sample description for The Westin Mumbai Garden City ,https://example.com/photo116
+117,"Fariyas Resort, Lonavla","""Frichley HillsTungarli, Lonavla - 410401, MAHARASHTRA""",MAHARASHTRA,105,3.1,"Sample description for Fariyas Resort, Lonavla",https://example.com/photo117
+118,"Trident, Nariman Point","""Nariman Point, Mumbai - 400 021, MAHARASHTRA""",MAHARASHTRA,550,1.1,"Sample description for Trident, Nariman Point",https://example.com/photo118
+119,Taj Lands End,"""B.J. RoadBand Stand, Bandra (West), Mumbai - 400050, MAHARASHTRA""",MAHARASHTRA,493,1.5,Sample description for Taj Lands End,https://example.com/photo119
+120,Trident -  Bhubaneswar ,"""CB - 1 Nayapalli, Bhubaneshwar , ORISSA""",ORISSA,62,4.0,Sample description for Trident -  Bhubaneswar ,https://example.com/photo120
+121,Hotel Mayfair Lagoon,"""8-BJaydev Vihar, Bhubaneswar, ORISSA""",ORISSA,102,4.6,Sample description for Hotel Mayfair Lagoon,https://example.com/photo121
+122,ISTA Amritsar,"""G.T. Road(Adjoining Alpha One City Centre), Amritsar - 143 001, PUNJAB""",PUNJAB,248,4.1,Sample description for ISTA Amritsar,https://example.com/photo122
+123,Sheraton Rajputana Hotel,"""Palace Road, Jaipur-302006, RAJASTHAN""",RAJASTHAN,218,3.9,Sample description for Sheraton Rajputana Hotel,https://example.com/photo123
+124,The Oberoi Rajvilas,"""Goner Road, Jaipur - 303012, RAJASTHAN""",RAJASTHAN,71,2.6,Sample description for The Oberoi Rajvilas,https://example.com/photo124
+125,The Oberoi Udaivilas ,"""Haridas Ji Ki Magri , Udaipur , RAJASTHAN""",RAJASTHAN,87,1.7,Sample description for The Oberoi Udaivilas ,https://example.com/photo125
+126,Country Inn & Suites By Carlson,"""Country Inn & Suites By Carlson (A unit of Shivani Enclaves Pvt.,Khasa Kothi Circle M.I.Road, Jaipur, RAJASTHAN""",RAJASTHAN,100,4.2,Sample description for Country Inn & Suites By Carlson,https://example.com/photo126
+127,The Leela Palace Kempinski,"""P.O. Box No. 125Lake Pichola, Udaipur - 313 001, RAJASTHAN""",RAJASTHAN,80,4.0,Sample description for The Leela Palace Kempinski,https://example.com/photo127
+128,JAI MAHAL PALACE HOTEL,"""JACOB ROAD,CIVIL LINES, Jaipur, RAJASTHAN""",RAJASTHAN,100,3.3,Sample description for JAI MAHAL PALACE HOTEL,https://example.com/photo128
+129,Mayfair Spa & Resort,"""(Unit of Mayfair Hotels & Resorts (Sikkim) Pvt. Ltd.)Lower Samdur Block, Ranipool - 737135, Gangtok, SIKKIM""",SIKKIM,63,1.7,Sample description for Mayfair Spa & Resort,https://example.com/photo129
+130,Taj Mount Road,"""No. 2Club House Road, Chennai - 600 002, TAMIL NADU""",TAMIL NADU,220,4.6,Sample description for Taj Mount Road,https://example.com/photo130
+131,THE PARK ,"""UNIT :APEEJAY -SURRENDRA PARK HOTELS LTD 601, ANNA SALAI , Chennai, TAMIL NADU """,TAMIL NADU,214,2.0,Sample description for THE PARK ,https://example.com/photo131
+132,Vivanta by Taj - Fishermans Cove,"""Covelong Beach, Kanchipuram Dist. - 603112, TAMIL NADU""",TAMIL NADU,88,4.8,Sample description for Vivanta by Taj - Fishermans Cove,https://example.com/photo132
+133,Taj Coromandel,"""37Mahatma Gandhi Salai, Nungambakkam, Chennai - 600 034, TAMIL NADU""",TAMIL NADU,205,3.4,Sample description for Taj Coromandel,https://example.com/photo133
+134,Le Royal Meridien Chennai,"""(Owned by Appu Hotels Limited)No. 1, G.S.T. Road, St. Thomas Mount, Chennai - 600 016, TAMIL NADU""",TAMIL NADU,240,3.9,Sample description for Le Royal Meridien Chennai,https://example.com/photo134
+135,ITC The Mughal,"""Fatehabad RoadTajganj, Agra - 282 001, UTTAR PRADESH""",UTTAR PRADESH,233,1.1,Sample description for ITC The Mughal,https://example.com/photo135
+136,Jaypee Greens Golf & Spa Resort,"""A division of Jaiprakash Associates Ltd. G-Block, Surajpur Kasna Road Gautam Budh Nagar, Greater Noida, UTTAR PRADESH""",UTTAR PRADESH,170,2.6,Sample description for Jaypee Greens Golf & Spa Resort,https://example.com/photo136
+137,Vivanta by Taj ,"""Vipin Khand Gomti Nagar , Lucknow , UTTAR PRADESH""",UTTAR PRADESH,110,1.5,Sample description for Vivanta by Taj ,https://example.com/photo137
+138,Taj Ganges Varanasi,"""Nadesar Palace GraoundsNadesar, Varanasi - 221002, UTTAR PRADESH""",UTTAR PRADESH,130,2.0,Sample description for Taj Ganges Varanasi,https://example.com/photo138
+139,Radisson Hotel,"""Taj East Gate Road, Agra - 282 001, UTTAR PRADESH""",UTTAR PRADESH,140,4.5,Sample description for Radisson Hotel,https://example.com/photo139
+140,Radisson MBD Hotel,"""Plot No. L-2Sector - 18, Noida - 201 301, UTTAR PRADESH""",UTTAR PRADESH,126,1.2,Sample description for Radisson MBD Hotel,https://example.com/photo140
+141,Holiday Regency,"""Holiday Regency (A Unit of Omsons Holiday Inn Pvt. ltd)Om Enclave, (KM, Delhi Road , NH-24, Moradabad, UTTAR PRADESH""",UTTAR PRADESH,74,2.9,Sample description for Holiday Regency,https://example.com/photo141
+142,Jaypee Residency Manor,"""Barlowganj, Mussoorie, UTTARAKHAND""",UTTARAKHAND,90,3.6,Sample description for Jaypee Residency Manor,https://example.com/photo142
+143,ITC Sonar,"""1, JBS Haldane AvenueOpp. Science City, Kolkata-700046, WEST BENGAL""",WEST BENGAL,239,3.1,Sample description for ITC Sonar,https://example.com/photo143
+144,Hotel Ista Hyderabad,"""Plot No-7, Road No. 2I.T. Park, Nanakramguda, Gachibowali, Hyderabad - 500019, ANDHRA PRADESH""",ANDHRA PRADESH,157,1.7,Sample description for Hotel Ista Hyderabad,https://example.com/photo144
+145,Hotel Novotel Hyderabad,"""Novoel & HIVV Complex, Near Hitech City , P.O Bag No-1101, Cyberabad Post Office, Hyderabad, ANDHRA PRADESH""",ANDHRA PRADESH,288,2.8,Sample description for Hotel Novotel Hyderabad,https://example.com/photo145
+146,Novotel Hyderabad Airport ,"""GMR Hyderabad International Airport Ltd., Rajiv Gandhi International Airport Shamshabad, Ranga Reddy Dist , ANDHRA PRADESH""",ANDHRA PRADESH,305,3.1,Sample description for Novotel Hyderabad Airport ,https://example.com/photo146
+147,The Gateway Hotel ,"""Beach Road, Visakhapatnam , ANDHRA PRADESH""",ANDHRA PRADESH,95,4.3,Sample description for The Gateway Hotel ,https://example.com/photo147
+148,Taj Deccan - Hyderabad,"""Road No.1Banjara Hills, Hyderabad - 34, ANDHRA PRADESH""",ANDHRA PRADESH,151,2.1,Sample description for Taj Deccan - Hyderabad,https://example.com/photo148
+149,Leo Meridian Infrastructure,"""Bommaraspet (Village)Shamirpet Mandal, Ranga Reddy District, ANDHRA PRADESH""",ANDHRA PRADESH,88,3.0,Sample description for Leo Meridian Infrastructure,https://example.com/photo149
+150,Hotel Mountview,"""Sector 10, Chandigarh, CHANDIGARH""",CHANDIGARH,155,2.2,Sample description for Hotel Mountview,https://example.com/photo150
+151,Hotel Crowne Plaza Today,"""Plot No. 1Community Centre, Phase 1, Okhla, New Delhi - 110 020, DELHI""",DELHI,208,3.9,Sample description for Hotel Crowne Plaza Today,https://example.com/photo151
+152,Vivanta by Taj Ambassador,"""Sujan Singh ParkCornwallis Road, New Delhi - 110003, DELHI""",DELHI,88,2.9,Sample description for Vivanta by Taj Ambassador,https://example.com/photo152
+153,Fortune Select Regina ,"""376, Off. Fort Aquada Road , Candolim , GOA""",GOA,102,4.0,Sample description for Fortune Select Regina ,https://example.com/photo153
+154,Bogmallo Beach Resort,"""P.O. Bogmallo, Goa - 403806, GOA""",GOA,126,1.8,Sample description for Bogmallo Beach Resort,https://example.com/photo154
+155,DEVAAYA AYURVEDA SPA RESORT ,"""DIWAR, ILHAS ,GOA , GOA""",GOA,57,3.5,Sample description for DEVAAYA AYURVEDA SPA RESORT ,https://example.com/photo155
+156,Holiday Inn Resort,"""Mobor Beach Cavelossim Salcete,Goa, GOA""",GOA,203,2.4,Sample description for Holiday Inn Resort,https://example.com/photo156
+157,The Crown Goa,"""(A unit of Vision Enterprises) Bairo Alto Dos Pilotos, Goa, GOA""",GOA,43,4.5,Sample description for The Crown Goa,https://example.com/photo157
+158,Hotel Neo Majestic,"""Plot No. 104/1APorvorim, North Goa, GOA""",GOA,50,4.7,Sample description for Hotel Neo Majestic,https://example.com/photo158
+159,The Kenilworth Beach Resort & Spa,"""Utorda, Salcete - 403 713, GOA""",GOA,104,1.9,Sample description for The Kenilworth Beach Resort & Spa,https://example.com/photo159
+160,Hotel La Calypso Get Aways.,"""Saunta Vaddo, Baga Calangute Road, Calanguta VPBardez Goa, GOA""",GOA,14,3.0,Sample description for Hotel La Calypso Get Aways.,https://example.com/photo160
+161,"The ""O""","""S. No. 114/1Next to Kingfisher Villa, Condolim, Bardez - 403515, GOA""",GOA,75,4.1,"Sample description for The ""O""",https://example.com/photo161
+162,Sun-n-Sand Hotel,"""Bairo Alto Dos PilotosJose Falcao Road, Panjim, GOA""",GOA,43,3.3,Sample description for Sun-n-Sand Hotel,https://example.com/photo162
+163,The Imperial Palace ,"""Dr Yagnik Road , Rajkot , GUJARAT""",GUJARAT,80,1.5,Sample description for The Imperial Palace ,https://example.com/photo163
+164,Le Meridien,"""C/o. Associated Hotels Pvt. Ltd. Chand Suraj Estate Near Nehru Bridge, Khanpur, Ahmedabad, GUJARAT""",GUJARAT,63,2.7,Sample description for Le Meridien,https://example.com/photo164
+165,The Gateway Hotel Ummed,"""International Airport CircleNext to Army Cantonment, Hansol, Ahmedabad - 382 475, GUJARAT""",GUJARAT,91,2.9,Sample description for The Gateway Hotel Ummed,https://example.com/photo165
+166,The Galaxy Hotel,"""NH-8Sector-15, Part-II, Gurgaon - 122001, HARYANA""",HARYANA,80,4.6,Sample description for The Galaxy Hotel,https://example.com/photo166
+167,THE CHANCERY PAVILION,"""ELIXIR ENTERPRISES & HOTELS PVT LTD., NO-135, RESIDENCY ROAD, BANGALORE, KARNATAKA""",KARNATAKA,170,2.5,Sample description for THE CHANCERY PAVILION,https://example.com/photo167
+168,The Zuri - Whitefield,"""Rajpalya Hoodi - RoadWhitefield, Bengaluru - 560048, KARNATAKA""",KARNATAKA,162,1.1,Sample description for The Zuri - Whitefield,https://example.com/photo168
+169,Fortune Park J. P. Palace,"""No.-3 Abba RoadNazarabad Mohalla, Mysore, KARNATAKA""",KARNATAKA,108,1.9,Sample description for Fortune Park J. P. Palace,https://example.com/photo169
+170,Hotel Le Meridien - Bangalore,"""No. 28, Sankey RoadP.B. No. 174, Bangalore - 560052, KARNATAKA""",KARNATAKA,195,3.0,Sample description for Hotel Le Meridien - Bangalore,https://example.com/photo170
+171,Movenpick Hotel & Spa Bangalore,"""115 Pipeline Road near BEL CircleGokula Extension, Bangalore, KARNATAKA""",KARNATAKA,262,2.6,Sample description for Movenpick Hotel & Spa Bangalore,https://example.com/photo171
+172,Club Mahindra Lakeview,"""Munner, Chinnakanal VillageVia: Suryanelli, Idukki District - 685618, KERALA""", KERALA,38,4.4,Sample description for Club Mahindra Lakeview,https://example.com/photo172
+173,The Quilon Beach Hotel,"""Beach Kollam-691001, Kollam, KERALA""", KERALA,95,1.1,Sample description for The Quilon Beach Hotel,https://example.com/photo173
+174,The Elephant Court,"""Off Kumily - Thekkady RoadThekkady P.O., Kumily - 685 536, Idukki District, KERALA""", KERALA,64,4.3,Sample description for The Elephant Court,https://example.com/photo174
+175,Turtle On The Beach,"""VPI/43ITDC Road, Kovalam, Trivandrum - 685 527, KERALA""", KERALA,44,2.0,Sample description for Turtle On The Beach,https://example.com/photo175
+176,Casino Hotel,"""Willingdon Island, Cochin - 682 003, KERALA""", KERALA,67,3.1,Sample description for Casino Hotel,https://example.com/photo176
+177,"Trident, Cochin","""Bristow RoadWillingdon Island, Cochin - 682003, KERALA""", KERALA,85,2.6,"Sample description for Trident, Cochin",https://example.com/photo177
+178,The Gateway Hotel -Ernakulam,"""Marine DriveErnakulam, Kochi - 682 011, KERALA""", KERALA,108,4.8,Sample description for The Gateway Hotel -Ernakulam,https://example.com/photo178
+179,Kadavu Resort & Ayurveda Centre,"""NH-17, Calicut Bye Pass Road, Azhijilam P.O., near Feroke CollegeCalicut - 673632, (A Division of Yenkay complex Pvt. Ltd.), KERALA""", KERALA,72,1.4,Sample description for Kadavu Resort & Ayurveda Centre,https://example.com/photo179
+180,The Muthoot Plaza Hotel,"""Punnen Road, Thiruvananthapuram - 695039, KERALA""", KERALA,57,2.0,Sample description for The Muthoot Plaza Hotel,https://example.com/photo180
+181,Taj Residency - Trivandrum,"""T.C. No. 24/1987 (2)C.V. Raman Pillai Road, Thyeaud, Thiruvananthapuram - 695014, KERALA""", KERALA,137,2.2,Sample description for Taj Residency - Trivandrum,https://example.com/photo181
+182,Hotel Ramada -  Khajuraho,"""(Owned By Jagdish Shanti Hotel Pvt. Ltd.)Airport Road, Khajuraho - 471606, MADHYA PRADESH""",MADHYA PRADESH,82,2.6,Sample description for Hotel Ramada -  Khajuraho,https://example.com/photo182
+183,Radisson Jass Hotel,"""By Pass RoadKhajuraho, Dist Chattarpur, MADHYA PRADESH""",MADHYA PRADESH,90,1.5,Sample description for Radisson Jass Hotel,https://example.com/photo183
+184,Grand Sarovar Premiere,"""Junction of Veer Savarkar Flyover &S.V. Road, Goregaon (West)-400062, MAHARASHTRA""",MAHARASHTRA,98,3.9,Sample description for Grand Sarovar Premiere,https://example.com/photo184
+185,Hotel Meluha,"""Building 7, Sector-V, Central Avenue Hiranandani Gardens Powai, Mumbai, MAHARASHTRA""",MAHARASHTRA,141,2.3,Sample description for Hotel Meluha,https://example.com/photo185
+186,Hotel Tunga Regency Pvt.Ltd. ,"""PLOT NO-37, SECTOR 30-A, VASHI , NAVI MUMBAI , Mumbai , MAHARASHTRA""",MAHARASHTRA,92,1.9,Sample description for Hotel Tunga Regency Pvt.Ltd. ,https://example.com/photo186
+187,Ramada Plaza Palm Grove,"""Juhu Beach, Mumbai - 400049, MAHARASHTRA""",MAHARASHTRA,115,1.3,Sample description for Ramada Plaza Palm Grove,https://example.com/photo187
+188,The Shalimar Hotel ,"""August Kranti Marg , Mumbai , MAHARASHTRA""",MAHARASHTRA,65,3.6,Sample description for The Shalimar Hotel ,https://example.com/photo188
+189,THE PRIDE HOTEL ,"""OPP. AIRPORT WARDHA ROAD , Nagpur , MAHARASHTRA""",MAHARASHTRA,93,2.2,Sample description for THE PRIDE HOTEL ,https://example.com/photo189
+190,Four Points By Sheraton,"""S.No.197/3, Nagar Road,Viman Nagar, Pune, MAHARASHTRA""",MAHARASHTRA,246,1.8,Sample description for Four Points By Sheraton,https://example.com/photo190
+191,Taj Blue Diamond,"""11Koregaon Road, Pune - 411001, MAHARASHTRA""",MAHARASHTRA,110,4.7,Sample description for Taj Blue Diamond,https://example.com/photo191
+192,The O Hotel,"""Survey No.371Final Plot No.293, Koregaon, Pune - 411001, MAHARASHTRA""",MAHARASHTRA,111,3.5,Sample description for The O Hotel,https://example.com/photo192
+193,Taj Residency - Aurangabad,"""8-N-12CIDCO RAUZA BAGH, Aurangabad, MAHARASHTRA""",MAHARASHTRA,64,2.3,Sample description for Taj Residency - Aurangabad,https://example.com/photo193
+194,Hotel Sea Princess ,"""969 Juhu Beach , Mumbai , MAHARASHTRA""",MAHARASHTRA,108,5.0,Sample description for Hotel Sea Princess ,https://example.com/photo194
+195,The Gateway Hotel,"""P-17, MIDC Ambad MumbaiMumbai - Agra Road, Nashik, MAHARASHTRA""",MAHARASHTRA,70,4.1,Sample description for The Gateway Hotel,https://example.com/photo195
+196,Hotel Parc Estique,"""Viman NagarNagar Road, Pune - 411014, MAHARASHTRA""",MAHARASHTRA,116,2.5,Sample description for Hotel Parc Estique,https://example.com/photo196
+197,Radisson Windsor Hotel ,"""Windsor Fountain G.T. Road, Near BMC Chowk , Jalandhar , PUNJAB""",PUNJAB,62,2.1,Sample description for Radisson Windsor Hotel ,https://example.com/photo197
+198,Majestic Park Plaza ,"""P.O. BOX NO 333 BHAI BALA CHOWK, FEROZEPUR ROAD. , Ludhiana , PUNJAB""",PUNJAB,117,2.1,Sample description for Majestic Park Plaza ,https://example.com/photo198
+199,Hotel Mansingh,"""Sansar Chandra Road, Jaipur, RAJASTHAN""",RAJASTHAN,95,2.8,Sample description for Hotel Mansingh,https://example.com/photo199
+200,"Hotel Trident, Jaipur","""Amber Fort RoadOpp. Jal Mahal, Jaipur, RAJASTHAN""",RAJASTHAN,134,3.6,"Sample description for Hotel Trident, Jaipur",https://example.com/photo200
+201,Fortune Select Metropolitan - Jaipur,"""Fortune Select Metropolitan, Nehru Sahkar Bhawan,C-Scheme, Bias Godam Circle, Jaipur, RAJASTHAN""",RAJASTHAN,90,2.8,Sample description for Fortune Select Metropolitan - Jaipur,https://example.com/photo201
+202,Chokhi Dhani,"""The Ethntic Village Resort12 Miles, Via Vatika, Tonk Road, Jaipur - 303905, RAJASTHAN""",RAJASTHAN,97,1.7,Sample description for Chokhi Dhani,https://example.com/photo202
+203,Inder Residency,"""(A Unit of Seasons Hotels Pvt. Ltd.)Goverdhan Vilas, Shikarbadi Road, Ekling Nagar, Udaipur - 313 001, RAJASTHAN""",RAJASTHAN,144,4.8,Sample description for Inder Residency,https://example.com/photo203
+204,Denzong Regency,"""Cherry Banks,Development Area, Gangtok, SIKKIM""",SIKKIM,25,4.1,Sample description for Denzong Regency,https://example.com/photo204
+205,The Gateway Hotel Pasumalai Madurai,"""(formerly known as Taj Garden Retreat Madurai)40 T.P.K. Road, Pasumalai, Madurai - 625 004, TAMIL NADU""",TAMIL NADU,63,3.0,Sample description for The Gateway Hotel Pasumalai Madurai,https://example.com/photo205
+206,Radisson Hotel GRT,"""G S T Road St Thomas Mount Chennai, Chennai, TAMIL NADU""",TAMIL NADU,101,1.4,Sample description for Radisson Hotel GRT,https://example.com/photo206
+207,Trident - Chennai,"""1/24, GST RoadMeenambakkam, TAMIL NADU""",TAMIL NADU,167,4.1,Sample description for Trident - Chennai,https://example.com/photo207
+208,Hotel Clarks Shiraz,"""54Taj Road, Agra - 282001, UTTAR PRADESH""",UTTAR PRADESH,237,2.8,Sample description for Hotel Clarks Shiraz,https://example.com/photo208
+209,Hotel Trident - Agra,"""Fatehabad Road, Agra, UTTAR PRADESH""",UTTAR PRADESH,138,2.8,Sample description for Hotel Trident - Agra,https://example.com/photo209
+210,Country Inn & Suites by Carlson.,"""64/6, Site - IVSahibabad, (Distt. Ghaziabad) - 201 010, UTTAR PRADESH""",UTTAR PRADESH,216,4.1,Sample description for Country Inn & Suites by Carlson.,https://example.com/photo210
+211,Radisson Hotel Varanasi,"""The Mall Cantonment, Varanasi Uttar Pradesh, Varanasi, UTTAR PRADESH""",UTTAR PRADESH,116,1.5,Sample description for Radisson Hotel Varanasi,https://example.com/photo211
+212,"The Gateway Hotel, Agra","""Taj GanjFatehabad Road, Agra - 282001, UTTAR PRADESH""",UTTAR PRADESH,100,3.6,"Sample description for The Gateway Hotel, Agra",https://example.com/photo212
+213,Hotel Hindusthan International,"""235/1A.J.C. Bose Road, Kolkata - 700020, WEST BENGAL""",WEST BENGAL,184,1.3,Sample description for Hotel Hindusthan International,https://example.com/photo213
+214,Swissotel Kolkata Neotia Vista,"""M/s Swissotel Kolkata Neotia Vista City Center New Town Action Area 2/DPlot No. 11/5 New Town Rajarhat, Kolkata, WEST BENGAL""",WEST BENGAL,147,2.9,Sample description for Swissotel Kolkata Neotia Vista,https://example.com/photo214
+215,The Golkonda,"""(A Unit of Golkonda Hospitality Services & REsorts Ltd.) 10-1-124Masab Tank, Hyderabad, ANDHRA PRADESH""",ANDHRA PRADESH,94,2.9,Sample description for The Golkonda,https://example.com/photo215
+216,Palm Beach Hotel,"""Beach Road, Visakhapatnam - 530 023, ANDHRA PRADESH""",ANDHRA PRADESH,44,3.1,Sample description for Palm Beach Hotel,https://example.com/photo216
+217,QUALITY INN DV MANOR,"""40-1-47, M.G.ROADVENKATESHWARA PURAM, Vijayawada, ANDHRA PRADESH""",ANDHRA PRADESH,115,1.3,Sample description for QUALITY INN DV MANOR,https://example.com/photo217
+218,Best Western Amrutha Castle,"""5-9-16, SaifabadOpp. Secretariat, Hyderabad - 500063, ANDHRA PRADESH""",ANDHRA PRADESH,90,5.0,Sample description for Best Western Amrutha Castle,https://example.com/photo218
+219,Hotel Green Park,"""(A Division of Diana Hotels Ltd.)7-1-26, Greenlands, Begumpet, Hyderabad - 500016, ANDHRA PRADESH""",ANDHRA PRADESH,149,2.0,Sample description for Hotel Green Park,https://example.com/photo219
+220,Hotel Raj Mahal,"""A.T. RoadPaltan Bazar, Guwahati - 781001, ASSAM""",ASSAM,71,3.0,Sample description for Hotel Raj Mahal,https://example.com/photo220
+221,Hotel Natraj,"""H.S. Road, Dibrugarh - 786001, ASSAM""",ASSAM,20,2.0,Sample description for Hotel Natraj,https://example.com/photo221
+222,Hotel The Royal Plaza,"""(A Unit of Hotel Queen Road Pvt. Ltd.)19, Ashoka Road, New Delhi-110001, DELHI""",DELHI,419,4.0,Sample description for Hotel The Royal Plaza,https://example.com/photo222
+223,Hotel City Park,"""3/4, K/P BLOCK PITAMPURA, New Delhi, DELHI""",DELHI,58,1.6,Sample description for Hotel City Park,https://example.com/photo223
+224,Hotel Diplomat,"""9, Sardar Patel MargDiplomatic Enclave, New Delhi, DELHI""",DELHI,25,2.9,Sample description for Hotel Diplomat,https://example.com/photo224
+225,Maidens Hotel,"""7Sham Nath Marg, New Delhi - 110054, DELHI""",DELHI,55,5.0,Sample description for Maidens Hotel,https://example.com/photo225
+226,The Connaught,"""37Shaheed Bhagat Singh Marg, New Delhi - 110001, DELHI""",DELHI,79,2.1,Sample description for The Connaught,https://example.com/photo226
+227,Hotel Vikram,"""Ring Road, Lajpat Nagar, New Delhi, DELHI""",DELHI,68,2.6,Sample description for Hotel Vikram,https://example.com/photo227
+228,Lazylagoon Sarovar Portico Suites,"""(Unit of Aqua Resorts & Spa Pvt. Ltd.)Baga - Arpora, Bardez - 403518, GOA""",GOA,39,3.6,Sample description for Lazylagoon Sarovar Portico Suites,https://example.com/photo228
+229,Sun Village Resort,"""SaquawadiBaga-Arpora Bardez, GOA""",GOA,135,4.3,Sample description for Sun Village Resort,https://example.com/photo229
+230,WHISPERING PALMS BEACH RESORT,"""SINQUERIM BEACH, WADDICANDOLIM, BARDEZ-GOA, GOA""",GOA,197,4.3,Sample description for WHISPERING PALMS BEACH RESORT,https://example.com/photo230
+231,The Metropole Hotel,"""(Unit of Majestic Projects Pvt. Ltd.)Near R.T.O. Circle, Subhash Bridge Corner, Ahmedabad - 380027, """,GUJARAT,70,1.2,Sample description for The Metropole Hotel,https://example.com/photo231
+232,Hotel Fortune Palace,"""Near Digjam CircleAirport Road, Jamnagar - 361 008, GUJARAT""",GUJARAT,45,1.2,Sample description for Hotel Fortune Palace,https://example.com/photo232
+233,Fortune Inn Haveli,"""Plot No. 235,Sector - 11, Gandhinagar, GUJARAT""",GUJARAT,84,4.6,Sample description for Fortune Inn Haveli,https://example.com/photo233
+234,Hotel The Grand Bhagwati,"""Opp. GurudwaraBodakdev, S.G. Highway, Ahmedabad - 380 054, GUJARAT""",GUJARAT,37,1.1,Sample description for Hotel The Grand Bhagwati,https://example.com/photo234
+235,Optus Sarovar Premiere Hotel,"""SCO 43-47Sector - 28, City Centre, Gurgaon - 122002, """,HARYANA,80,4.4,Sample description for Optus Sarovar Premiere Hotel,https://example.com/photo235
+236,Park Premier,"""359-357Sector - 29, Gurgaon - 122 001, HARYANA""",HARYANA,94,3.2,Sample description for Park Premier,https://example.com/photo236
+237,The Bella Vista,"""SM 8, City Centre,Sector 5, Panchkula, HARYANA""",HARYANA,49,4.0,Sample description for The Bella Vista,https://example.com/photo237
+238,Fortune Select Global,"""2nd Floor, Global ArcadeM.G. Road, Gurgaon, HARYANA""",HARYANA,83,1.9,Sample description for Fortune Select Global,https://example.com/photo238
+239,Courtyard By Marriott,"""Plot No. 27 BSector Road, Sushant Lok - 1, Sector - 27, Gurgaon - 122 002, HARYANA""",HARYANA,198,3.8,Sample description for Courtyard By Marriott,https://example.com/photo239
+240,Fortune Park J.P.Celestial,"""No 5/43, Seshadri RoadNear Race Course Road, Bangalore-09, KARNATAKA""",KARNATAKA,130,1.2,Sample description for Fortune Park J.P.Celestial,https://example.com/photo240
+241,The Gatwway Hotel - Chikmagalur,"""KM RoadJyothi Nagar, Chikmagalur - 577102, KARNATAKA""",KARNATAKA,29,2.9,Sample description for The Gatwway Hotel - Chikmagalur,https://example.com/photo241
+242,Raj Residency,"""Near New bus standAlamipally, Kanhangad, KERALA""",KERALA,198,2.6,Sample description for Raj Residency,https://example.com/photo242
+243,Hotel Maurya Rajadhani,"""Stat GL,Hospital Road Statue, Trivandrum, KERALA""",KERALA,39,1.5,Sample description for Hotel Maurya Rajadhani,https://example.com/photo243
+244,Keys Hotels,"""Sy. No. 2863/1Opp. Fire & Rescue Services Housing Board junction, Trivandrum, KERALA""",KERALA,101,4.6,Sample description for Keys Hotels,https://example.com/photo244
+245,Hotel Blue Nile,"""S.N. Park Road, Kannur - 670 001, KERALA""",KERALA,39,3.4,Sample description for Hotel Blue Nile,https://example.com/photo245
+246,Hotel Amruthaa International,"""No. CC 41/2884St. Benedict Road, Ernakulam, Kochi - 682 018, KERALA""",KERALA,26,4.8,Sample description for Hotel Amruthaa International,https://example.com/photo246
+247,Fragrant Nature Retreat and Resort Pvt. Ltd.,"""Building No. CPI/07-20A,Nedungolam P.O., Paravur, Kollam, KERALA""",KERALA,18,4.3,Sample description for Fragrant Nature Retreat and Resort Pvt. Ltd.,https://example.com/photo247
+248,Hotel Presidency,"""Paramara Road Ernakulam Town, Kochi, KERALA""",KERALA,49,2.8,Sample description for Hotel Presidency,https://example.com/photo248
+249,Hotel Raj Regency,"""Chelakkara road,Pazhayannur, Thrissur, KERALA""",KERALA,10,2.4,Sample description for Hotel Raj Regency,https://example.com/photo249
+250,ATS Residency,"""Yakkara Branch RoadNear D.P Office, Palakkad, KERALA""",KERALA,20,1.9,Sample description for ATS Residency,https://example.com/photo250
+251,The Royale Gardens,"""Nangiarkulangara P.O.Haripad - Alleppey District, Kerala - 690513, KERALA""",KERALA,34,2.4,Sample description for The Royale Gardens,https://example.com/photo251
+252,Hotel Srivatsa Regency,"""Pittupeedika, Main Road,Koduvayur, Palakkad, KERALA""",KERALA,12,4.2,Sample description for Hotel Srivatsa Regency,https://example.com/photo252
+253,Hotel Hills Park,"""Kumbazha Road,Pathanamthitta,District, Kerala, KERALA""",KERALA,15,2.0,Sample description for Hotel Hills Park,https://example.com/photo253
+254,Neelamabari Suite,"""Villanchira,Thalakkodu P.O.Neriyamangalam, Ernakulam, KERALA""",KERALA,22,1.1,Sample description for Neelamabari Suite,https://example.com/photo254
+255,Excalibur Hotels & Resorts,"""Carithas Junction,MC Road,Thellakon, Kottayam, KERALA""",KERALA,20,4.5,Sample description for Excalibur Hotels & Resorts,https://example.com/photo255
+256,Raj Residency,"""Near New bus standAlamipally, Kanhangad, KERALA""",KERALA,198,3.2,Sample description for Raj Residency,https://example.com/photo256
+257,Muthoot Cardamom County Resort,"""Kumily (PO)Thekkady, Idukki (Dist.) - 685536, KERALA""",KERALA,44,4.2,Sample description for Muthoot Cardamom County Resort,https://example.com/photo257
+258,Hotel White Dammar International,"""Pappanamcode, Trivandrum - 695 018, KERALA""",KERALA,12,4.3,Sample description for Hotel White Dammar International,https://example.com/photo258
+259,Hotel SP Grand Days,"""Panavila JnThycaud P.O., Thiruvananthapuram - 695014, KERALA""",KERALA,69,4.5,Sample description for Hotel SP Grand Days,https://example.com/photo259
+260,Hotel Peninsula Park Residency,"""Motel and Resorts Pvt. Ltd.Parakode, Adoor, Pathanamthitta Dist., KERALA""",KERALA,20,1.8,Sample description for Hotel Peninsula Park Residency,https://example.com/photo260
+261,Hotel Indraprastha,"""Pattazhi P.O.Pathanapuram, Kollam Dist.-691522, KERALA""",KERALA,14,1.9,Sample description for Hotel Indraprastha,https://example.com/photo261
+262,Hotel Mangala Towers,"""Paliyam RoadNear Bus Stand, Thrissur - 680001, KERALA""",KERALA,24,3.4,Sample description for Hotel Mangala Towers,https://example.com/photo262
+263,Hotel Soorya Regency,"""Calicut By-Pass RoadKavungal, Malappuram - 676505, KERALA""",KERALA,13,3.6,Sample description for Hotel Soorya Regency,https://example.com/photo263
+264,Hotel Moonlit Regency,"""4, Lane JunctionVengallor Muvatupuzha Road, Thodupuzha Idukki District-685584, KERALA""",KERALA,22,4.3,Sample description for Hotel Moonlit Regency,https://example.com/photo264
+265,Hotel Sky Pearl,"""Chovva, Kannur - 670006, KERALA""",KERALA,28,2.6,Sample description for Hotel Sky Pearl,https://example.com/photo265
+266,The Royal Fort,"""Hospital JunctionKundara P.O., Kollam Dist. - 691501, KERALA""",KERALA,12,1.5,Sample description for The Royal Fort,https://example.com/photo266
+267,Hotel Soorya Galaxy,"""(A Unit of Sreebala Divelopers & Hotel Pvt. Ltd.)13/158 A, Calicut Road, Cheruvannur, P.O. Feroke, Calicut - 673731, KERALA""",KERALA,12,3.6,Sample description for Hotel Soorya Galaxy,https://example.com/photo267
+268,Cochin Seaport Hotel,"""Thekken MalipuramVypin, Cochin - 682 508, KERALA""",KERALA,25,1.5,Sample description for Cochin Seaport Hotel,https://example.com/photo268
+269,The Avenue Regent,"""39/2026,M.G. Road, Kochi, KERALA""",KERALA,55,3.2,Sample description for The Avenue Regent,https://example.com/photo269
+270,Spice Village,"""Thekkady - Kumily Road, Thekkady - 685536, KERALA""",KERALA,52,4.9,Sample description for Spice Village,https://example.com/photo270
+271,Hotel Midhila Regency,"""Midhila Regncy Cherplassery Hotels Pvt.Ltd.Pattambi road, Cherpulassery Palakkad Dist., kerala, KERALA""",KERALA,10,4.5,Sample description for Hotel Midhila Regency,https://example.com/photo271
+272,Hotel Soorya Swagat,"""Pudussery EastPalakkad, Walayar, KERALA""",KERALA,14,3.4,Sample description for Hotel Soorya Swagat,https://example.com/photo272
+273,The Hotel Elegance,"""Karuvanchal POThalimapram, Kannur, KERALA""",KERALA,13,1.5,Sample description for The Hotel Elegance,https://example.com/photo273
+274,K R Grand Residency,"""Parayil Market RoadKunnamkulam, Thrissur, KERALA""",KERALA,14,4.4,Sample description for K R Grand Residency,https://example.com/photo274
+275,Hotel Dona Castle,"""(Unit of Sunny Jacob Builders & Developers Pvt. Ltd.)Kottamukku, Kollam, KERALA""",KERALA,31,2.0,Sample description for Hotel Dona Castle,https://example.com/photo275
+276,Hotel Fairmont,"""S.H. Mount,M.C. Road, Kottayam, KERALA""",KERALA,30,3.8,Sample description for Hotel Fairmont,https://example.com/photo276
+277,Hotel Anandha Inn Pvt. Ltd.,"""NO-154S.V PATEL ROAD, PONDICHERRY, KERALA""",KERALA,70,2.4,Sample description for Hotel Anandha Inn Pvt. Ltd.,https://example.com/photo277
+278,Niya Regency,"""Elthuruth Junction,Chettupuzha P.O., Thrissur, KERALA""",KERALA,20,4.3,Sample description for Niya Regency,https://example.com/photo278
+279,The South Park,"""(Unit of Kerala Hotels Pvt. Ltd.)M.G. Road, Trivandrum - 695 034, KERALA""",KERALA,82,3.3,Sample description for The South Park,https://example.com/photo279
+280,Uday Samudra Leisure Beach Hotel,"""G.V.Raja Road,Samudra Beach Kovalam, Trivandrum, KERALA""",KERALA,50,1.4,Sample description for Uday Samudra Leisure Beach Hotel,https://example.com/photo280
+281,SEASONS SERVICE APARTMENTS,"""S. NO-128/2/3/6/7/2/2/128/A1,SANEWADI AUNDH, PUNE, Malad, MAHARASHTRA""",MAHARASHTRA,46,3.5,Sample description for SEASONS SERVICE APARTMENTS,https://example.com/photo281
+282,HOTEL BAWA INTERNATIONAL,"""NEHRU ROAD EXTN.NEAR DOMESTIC AIRPORT VILE PARLE (E), Mumbai, MAHARASHTRA""",MAHARASHTRA,76,2.7,Sample description for HOTEL BAWA INTERNATIONAL,https://example.com/photo282
+283,Hotel Courtyard By Marriott,"""International Airport,CTS No. 215, Andheri Kurla Road, Andheri (East), Mumbai, MAHARASHTRA""",MAHARASHTRA,282,4.1,Sample description for Hotel Courtyard By Marriott,https://example.com/photo283
+284,Hotel Midtown Pritam,"""DharamputraPritam Estate Dr.Ambedkar Road, Dadar T.T, Mumbai-400014, MAHARASHTRA""",MAHARASHTRA,60,4.5,Sample description for Hotel Midtown Pritam,https://example.com/photo284
+285,Hotel Trident,"""C-56, G-Block,Bandra Kurla Complex, Mumbai, MAHARASHTRA""",MAHARASHTRA,436,4.2,Sample description for Hotel Trident,https://example.com/photo285
+286,Hotel Tunga Regale,"""Plot No. 31, Phase IIMIDC, Central Road, Andheri (East), Mumbai - 400093, MAHARASHTRA""",MAHARASHTRA,54,3.9,Sample description for Hotel Tunga Regale,https://example.com/photo286
+287,Ramee Guestline Hotel,"""Plot No. 3Kohinoor Road, Dadar (East), Mumbai - 400014, MAHARASHTRA""",MAHARASHTRA,58,3.0,Sample description for Ramee Guestline Hotel,https://example.com/photo287
+288,"K. Raheja Corp. Pvt. Ltd. ""The Resort""","""11,Aksa Beach,Malad (West), Mumbai - 400 095, MAHARASHTRA""",MAHARASHTRA,94,4.7,"Sample description for K. Raheja Corp. Pvt. Ltd. ""The Resort""",https://example.com/photo288
+289,Hotel Sagar Plaza,"""1Bund Garden Road, Pune - 411001, MAHARASHTRA""",MAHARASHTRA,76,2.2,Sample description for Hotel Sagar Plaza,https://example.com/photo289
+290,The Central Park Hotel,"""Bund Garden RoadNear Council Hall, Pune - 411 001, MAHARASHTRA""",MAHARASHTRA,74,1.6,Sample description for The Central Park Hotel,https://example.com/photo290
+291,Holiday Inn Mumbai International Airport,"""721/1,721/A,721/B of Mohali VillageAndhri Kurla Road, Sakinaka junction, Mumbai, MAHARASHTRA""",MAHARASHTRA,225,2.8,Sample description for Holiday Inn Mumbai International Airport,https://example.com/photo291
+292,The Emerald,"""(Hotel & Executive Apartment)Mumbai Next to Juhu Tara Road, Opp. Hotel Sea Princess, B.R. Chopra's Bungalow, Santacruz (West), Mumbai-400049, MAHARASHTRA""",MAHARASHTRA,56,3.6,Sample description for The Emerald,https://example.com/photo292
+293,Hotel Polo Tower,"""Oakland RoadPolo Grounds, Shillong - 793001, MEGHALAYA""",MEGHALAYA,50,4.7,Sample description for Hotel Polo Tower,https://example.com/photo293
+294,M.K.HOTEL,"""DISTRICT SHOPPING CENTRE,RANJIT AVENUE, Amritsar, PUNJAB""",PUNJAB,75,4.0,Sample description for M.K.HOTEL,https://example.com/photo294
+295,THE MAYA HOTEL (Maya Inns Ltd.),"""JALANDHAR CITYEH-178,CIVIL LINES,NEAR BMC CROSSIN, JALANDHAR CITY-144001, PUNJAB""",PUNJAB,53,5.0,Sample description for THE MAYA HOTEL (Maya Inns Ltd.),https://example.com/photo295
+296,Hotel Ritz Plaza,"""45The Mall, Amritsar - 143001, PUNJAB""",PUNJAB,41,3.0,Sample description for Hotel Ritz Plaza,https://example.com/photo296
+297,"Country In & Suites, Ajmer","""Ansal's Sushant City, Village Gegalkishangarh-Ajmer Road, Ajmer, RAJASTHAN""",RAJASTHAN,71,3.2,"Sample description for Country In & Suites, Ajmer",https://example.com/photo297
+298,The Royal Plaza,"""Shyari - GangtokEast sikkim, Gangtok -737102, SIKKIM""",SIKKIM,58,3.4,Sample description for The Royal Plaza,https://example.com/photo298
+299,The Residency Towers,"""Sir Thyagaraya RoadT. Nagar, Chennai - 600 017, TAMIL NADU""",TAMIL NADU,174,2.0,Sample description for The Residency Towers,https://example.com/photo299
+300,Hotel Sangam ,"""Collectors Office Road , Tiruchirapalli , TAMIL NADU""",TAMIL NADU,76,3.5,Sample description for Hotel Sangam ,https://example.com/photo300
+301,Quality Inn Sabari,"""29,Thirumalai Pillai RoadT. Nagar, Chennai, TAMIL NADU""",TAMIL NADU,72,1.8,Sample description for Quality Inn Sabari,https://example.com/photo301
+302,The Savera Hotel,"""No. 146, Dr. Radhakrishnan SalaiMylapore, Chennai - 600 004, TAMIL NADU""",TAMIL NADU,230,3.7,Sample description for The Savera Hotel,https://example.com/photo302
+303,Hotel Raj Park (P) Ltd.,"""180, T.T.K. Road Alwarpet,Chennai - 600018, TAMIL NADU""",TAMIL NADU,89,1.6,Sample description for Hotel Raj Park (P) Ltd.,https://example.com/photo303
+304,Fortune Inn Grazia,"""(Unit of Angel Baby Products Pvt. Ltd) Plot NO.1 A, Block - 1Sector - 27 Noida, UTTAR PRADESH""",UTTAR PRADESH,42,2.0,Sample description for Fortune Inn Grazia,https://example.com/photo304
+305,Country Inn & Suites by Carlson - Haridwar,"""( Unit of Sens Udyog Pvt. Ltd.)Haripurkalan, Raiwala, Motichur, Haridwar - Rishikesh Highway, Haridwar, Dist. Dehradun - 249205, UTTARAKHAND""",UTTARAKHAND,56,2.8,Sample description for Country Inn & Suites by Carlson - Haridwar,https://example.com/photo305
+306,The Peerless Inn,"""12J. L. Nehru Road, Kolkata - 700 013, WEST BENGAL""",WEST BENGAL,122,4.8,Sample description for The Peerless Inn,https://example.com/photo306
