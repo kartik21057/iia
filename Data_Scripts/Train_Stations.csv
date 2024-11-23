@@ -1,0 +1,457 @@
+Station_ID,Station_Name,City,Country,Code
+1,Ambala Cantt Junction,Ambala,INDIA,UMB
+2,Ambala City,Ambala,INDIA,UBC
+3,Yamunanagar Jagadhri,Yamunanagar,INDIA,YJUD
+4,Karnal,Karnal,INDIA,KUN
+5,Panipat Junction,Panipat,INDIA,PNP
+6,Kurukshetra Junction,Kurukshetra,INDIA,KKDE
+7,Hisar Junction,Hisar,INDIA,HSR
+8,Rohtak Junction,Rohtak,INDIA,ROK
+9,Sonipat,Sonipat,INDIA,SNP
+10,Bhiwani Junction,Bhiwani,INDIA,BNW
+11,Jind Junction,Jind,INDIA,JIND
+12,Rewari Junction,Rewari,INDIA,RE
+13,Ambala City,Ambala,INDIA,UBC
+14,Yamunanagar Jagadhri,Yamunanagar,INDIA,YJUD
+15,Karnal,Karnal,INDIA,KUN
+16,Panipat Junction,Panipat,INDIA,PNP
+17,Kurukshetra Junction,Kurukshetra,INDIA,KKDE
+18,Hisar Junction,Hisar,INDIA,HSR
+19,Rohtak Junction,Rohtak,INDIA,ROK
+20,Sonipat,Sonipat,INDIA,SNP
+21,Bhiwani Junction,Bhiwani,INDIA,BNW
+22,Jind Junction,Jind,INDIA,JIND
+23,Rewari Junction,Rewari,INDIA,RE
+24,Gurgaon,Gurgaon,INDIA,GGN
+25,Faridabad,Faridabad,INDIA,FDB
+26,New Delhi Railway Station,Delhi,INDIA,NDLS
+27,Old Delhi Railway Station,Delhi,INDIA,DLI
+28,Hazrat Nizamuddin Railway Station,Delhi,INDIA,NZM
+29,Anand Vihar Terminal,Delhi,INDIA,ANVT
+30,Delhi Sarai Rohilla Railway Station,Delhi,INDIA,DEE
+31,Shahdara Junction Railway Station,Delhi,INDIA,DSA
+32,Delhi Cantt Railway Station,Delhi,INDIA,DEC
+33,Tilak Bridge Railway Station,Delhi,INDIA,TKJ
+34,Okhla Railway Station,Delhi,INDIA,OKA
+35,Delhi Shahdara Railway Station,Delhi,INDIA,DSH
+36,Vivek Vihar Railway Station,Delhi,INDIA,VVB
+37,Pragati Maidan Railway Station,Delhi,INDIA,PGMD
+38,Shakurbasti Railway Station,Delhi,INDIA,SSB
+39,Narela Railway Station,Delhi,INDIA,NUR
+40,Sarai Rohilla Railway Station,Delhi,INDIA,DEE
+41,Shivaji Bridge Railway Station,Delhi,INDIA,CSB
+42,Patel Nagar Railway Station,Delhi,INDIA,PTNR
+43,Mandawali-Chander Vihar Railway Station,Delhi,INDIA,MCV
+44,Lajpat Nagar Railway Station,Delhi,INDIA,LPNR
+45,Tilak Nagar Railway Station,Delhi,INDIA,TKNR
+46,Jammu Tawi Railway Station,Jammu,INDIA,JAT
+47,Udhampur Railway Station,Udhampur,INDIA,UHP
+48,Katra Railway Station,Katra,INDIA,KATR
+49,Banihal Railway Station,Banihal,INDIA,BAHL
+50,Kakapora Railway Station,Kakapora,INDIA,KAPA
+51,Baramulla Railway Station,Baramulla,INDIA,BRML
+52,Pampore Railway Station,Pampore,INDIA,PMR
+53,Sopore Railway Station,Sopore,INDIA,SPR
+54,Anantnag Railway Station,Anantnag,INDIA,ANT
+55,Srinagar Railway Station,Srinagar,INDIA,SINA
+56,Qazigund Railway Station,Qazigund,INDIA,QG
+57,Manwal Railway Station,Manwal,INDIA,MNL
+58,Badgam Railway Station,Badgam,INDIA,BDGM
+59,Lethpora Railway Station,Lethpora,INDIA,LEP
+60,Narwal Railway Station,Narwal,INDIA,NW
+61,Pattan Railway Station,Pattan,INDIA,PTN
+62,Udhampur Railway Station,Udhampur,INDIA,UHP
+63,Katra Railway Station,Katra,INDIA,KATR
+64,Banihal Railway Station,Banihal,INDIA,BAHL
+65,Kakapora Railway Station,Kakapora,INDIA,KAPA
+66,Baramulla Railway Station,Baramulla,INDIA,BRML
+67,Pampore Railway Station,Pampore,INDIA,PMR
+68,Sopore Railway Station,Sopore,INDIA,SPR
+69,Anantnag Railway Station,Anantnag,INDIA,ANT
+70,Srinagar Railway Station,Srinagar,INDIA,SINA
+71,Qazigund Railway Station,Qazigund,INDIA,QG
+72,Manwal Railway Station,Manwal,INDIA,MNL
+73,Badgam Railway Station,Badgam,INDIA,BDGM
+74,Lethpora Railway Station,Lethpora,INDIA,LEP
+75,Narwal Railway Station,Narwal,INDIA,NW
+76,Pattan Railway Station,Pattan,INDIA,PTN
+77,Lucknow Charbagh Railway Station,Lucknow,INDIA,LKO
+78,Kanpur Central Railway Station,Kanpur,INDIA,CNB
+79,Varanasi Junction Railway Station,Varanasi,INDIA,BSB
+80,Agra Cantt Railway Station,Agra,INDIA,AGC
+81,Prayagraj Junction Railway Station,Prayagraj,INDIA,PRYJ
+82,Ghaziabad Railway Station,Ghaziabad,INDIA,GZB
+83,Meerut City Railway Station,Meerut,INDIA,MTC
+84,Gorakhpur Junction Railway Station,Gorakhpur,INDIA,GKP
+85,Jhansi Junction Railway Station,Jhansi,INDIA,JHS
+86,Bareilly Junction Railway Station,Bareilly,INDIA,BE
+87,Moradabad Junction Railway Station,Moradabad,INDIA,MB
+88,Saharanpur Junction Railway Station,Saharanpur,INDIA,SRE
+89,Muzaffarnagar Railway Station,Muzaffarnagar,INDIA,MOZ
+90,Aligarh Junction Railway Station,Aligarh,INDIA,ALJN
+91,Mathura Junction Railway Station,Mathura,INDIA,MTJ
+92,Faizabad Junction Railway Station,Faizabad,INDIA,FD
+93,Ayodhya Junction Railway Station,Ayodhya,INDIA,AY
+94,Kushinagar Railway Station,Kushinagar,INDIA,KNS
+95,Sultanpur Junction Railway Station,Sultanpur,INDIA,SLN
+96,Jaunpur Junction Railway Station,Jaunpur,INDIA,JNU
+97,Jaipur Junction,Jaipur,INDIA,JP
+98,Jodhpur Junction,Jodhpur,INDIA,JU
+99,Udaipur City,Udaipur,INDIA,UDZ
+100,Ajmer Junction,Ajmer,INDIA,AII
+101,Kota Junction,Kota,INDIA,KOTA
+102,Bikaner Junction,Bikaner,INDIA,BKN
+103,Alwar Junction,Alwar,INDIA,AWR
+104,Bharatpur Junction,Bharatpur,INDIA,BTE
+105,Sikar Junction,Sikar,INDIA,SIKR
+106,Bhilwara,Bhilwara,INDIA,BHL
+107,Jhunjhunu,Jhunjhunu,INDIA,JJN
+108,Chittorgarh Junction,Chittorgarh,INDIA,COR
+109,Dausa,Dausa,INDIA,DO
+110,Pali,Pali,INDIA,PANI
+111,Barmer,Barmer,INDIA,BME
+112,Sawai Madhopur Railway Station,Sawai Madhopur,INDIA,SWM
+113,Nagaur,Nagaur,INDIA,NGO
+114,Sirohi Road Railway Station,Sirohi Road,INDIA,SIR
+115,Hanumangarh Junction,Hanumangarh,INDIA,HMH
+116,Tonk,Tonk,INDIA,TONK
+117,Kalka Railway Station,Kalka,INDIA,KLK
+118,Shimla Railway Station,Shimla,INDIA,SML
+119,Una Himachal Railway Station,Una,INDIA,UHL
+120,Dharamsala Railway Station,Dharamsala,INDIA,DMS
+121,Kangra Railway Station,Kangra,INDIA,KGRA
+122,Hamirpur Railway Station,Hamirpur,INDIA,HMR
+123,Baijnath Paprola Railway Station,Baijnath,INDIA,BJPL
+124,Joginder Nagar Railway Station,Joginder Nagar,INDIA,JDNX
+125,Nurpur Road Railway Station,Nurpur Road,INDIA,NUPR
+126,Guler Railway Station,Guler,INDIA,GULR
+127,Nagrota Railway Station,Nagrota,INDIA,NGRT
+128,Una City Railway Station,Una,INDIA,UCR
+129,Barsi Takht Railway Station,Barsi Takht,INDIA,BTSK
+130,Dagshai Railway Station,Dagshai,INDIA,DGSH
+131,Kaithlighat Railway Station,Kaithlighat,INDIA,KGT
+132,Kanoh Railway Station,Kanoh,INDIA,KNF
+133,Salogra Railway Station,Salogra,INDIA,SLR
+134,Summer Hill Railway Station,Summer Hill,INDIA,SHZ
+135,Taradevi Railway Station,Taradevi,INDIA,TVI
+136,Vikasnagar Railway Station,Vikasnagar,INDIA,VNSR
+137,Patna Junction,Patna,INDIA,PNBE
+138,Gaya Junction,Gaya,INDIA,GAYA
+139,Muzaffarpur Junction,Muzaffarpur,INDIA,MFP
+140,Bhagalpur Junction,Bhagalpur,INDIA,BGP
+141,Darbhanga Junction,Darbhanga,INDIA,DBG
+142,Nalanda Junction,Nalanda,INDIA,NLD
+143,Purnia Junction,Purnia,INDIA,PRNA
+144,Saharsa Junction,Saharsa,INDIA,SHC
+145,Chapra Junction,Chapra,INDIA,CPR
+146,Buxar Railway Station,Buxar,INDIA,BXR
+147,Ara Junction,Ara,INDIA,ARA
+148,Katihar Junction,Katihar,INDIA,KIR
+149,Begusarai Railway Station,Begusarai,INDIA,BGS
+150,Hajipur Junction,Hajipur,INDIA,HJP
+151,Goraul Railway Station,Goraul,INDIA,GRL
+152,Jamalpur Junction,Jamalpur,INDIA,JMP
+153,Samastipur Junction,Samastipur,INDIA,SPJ
+154,Bapudham Motihari,Motihari,INDIA,BMKI
+155,Sasaram Railway Station,Sasaram,INDIA,SSM
+156,Barauni Junction,Barauni,INDIA,BJU
+157,Patna Junction,Patna,INDIA,PNBE
+158,Gaya Junction,Gaya,INDIA,GAYA
+159,Muzaffarpur Junction,Muzaffarpur,INDIA,MFP
+160,Bhagalpur Junction,Bhagalpur,INDIA,BGP
+161,Darbhanga Junction,Darbhanga,INDIA,DBG
+162,Nalanda Junction,Nalanda,INDIA,NLD
+163,Purnia Junction,Purnia,INDIA,PRNA
+164,Saharsa Junction,Saharsa,INDIA,SHC
+165,Chapra Junction,Chapra,INDIA,CPR
+166,Buxar Railway Station,Buxar,INDIA,BXR
+167,Ara Junction,Ara,INDIA,ARA
+168,Katihar Junction,Katihar,INDIA,KIR
+169,Begusarai Railway Station,Begusarai,INDIA,BGS
+170,Hajipur Junction,Hajipur,INDIA,HJP
+171,Goraul Railway Station,Goraul,INDIA,GRL
+172,Jamalpur Junction,Jamalpur,INDIA,JMP
+173,Samastipur Junction,Samastipur,INDIA,SPJ
+174,Bapudham Motihari,Motihari,INDIA,BMKI
+175,Sasaram Railway Station,Sasaram,INDIA,SSM
+176,Ranchi Railway Station,Ranchi,INDIA,RNC
+177,Dhanbad Junction,Dhanbad,INDIA,DHN
+178,Jamshedpur Tatanagar Junction,Jamshedpur,INDIA,TATA
+179,Bokaro Steel City Railway Station,Bokaro Steel City,INDIA,BKSC
+180,Hazaribagh Road Railway Station,Hazaribagh,INDIA,HZD
+181,Giridih Railway Station,Giridih,INDIA,GRD
+182,Koderma Railway Station,Koderma,INDIA,KQR
+183,Hazaribagh Town Railway Station,Hazaribagh Town,INDIA,HZBN
+184,Deoghar Railway Station,Deoghar,INDIA,DGHR
+185,Gomoh Junction Railway Station,Gomoh,INDIA,GMO
+186,Daltonganj Railway Station,Daltonganj,INDIA,DTO
+187,Hazaribagh Road Railway Station,Hazaribagh Road,INDIA,HZD
+188,Giridih Railway Station,Giridih,INDIA,GRD
+189,Koderma Railway Station,Koderma,INDIA,KQR
+190,Hazaribagh Town Railway Station,Hazaribagh Town,INDIA,HZBN
+191,Deoghar Railway Station,Deoghar,INDIA,DGHR
+192,Gomoh Junction Railway Station,Gomoh,INDIA,GMO
+193,Daltonganj Railway Station,Daltonganj,INDIA,DTO
+194,Dumka Railway Station,Dumka,INDIA,DMKA
+195,Chandrapura Railway Station,Chandrapura,INDIA,CRP
+196,Amritsar Junction,Amritsar,INDIA,ASR
+197,Ludhiana Junction,Ludhiana,INDIA,LDH
+198,Jalandhar City Railway Station,Jalandhar,INDIA,JUC
+199,Patiala Railway Station,Patiala,INDIA,PTA
+200,Bathinda Junction,Bathinda,INDIA,BTI
+201,Firozpur Cantt. Railway Station,Firozpur,INDIA,FZR
+202,Pathankot Junction,Pathankot,INDIA,PTKC
+203,Amritsar Junction,Amritsar,INDIA,ASR
+204,Ludhiana Junction,Ludhiana,INDIA,LDH
+205,Jalandhar City Railway Station,Jalandhar,INDIA,JUC
+206,Patiala Railway Station,Patiala,INDIA,PTA
+207,Bathinda Junction,Bathinda,INDIA,BTI
+208,Firozpur Cantt. Railway Station,Firozpur,INDIA,FZR
+209,Pathankot Junction,Pathankot,INDIA,PTKC
+210,Batala Junction Railway Station,Batala,INDIA,BATL
+211,Kapurthala Railway Station,Kapurthala,INDIA,KXH
+212,Sangrur Railway Station,Sangrur,INDIA,SAG
+213,Gurdaspur Railway Station,Gurdaspur,INDIA,GSP
+214,Hoshiarpur Railway Station,Hoshiarpur,INDIA,HSX
+215,Mansa Railway Station,Mansa,INDIA,MSZ
+216,Mumbai CST Railway Station,Mumbai,INDIA,CSTM
+217,Mumbai Lokmanya Tilak Terminus,Mumbai,INDIA,LTT
+218,Pune Junction,Pune,INDIA,PUNE
+219,Nagpur Junction,Nagpur,INDIA,NGP
+220,Thane Railway Station,Thane,INDIA,TNA
+221,Nashik Road Railway Station,Nashik,INDIA,NK
+222,Aurangabad Railway Station,Aurangabad,INDIA,AWB
+223,Solapur Railway Station,Solapur,INDIA,SUR
+224,Kalyan Junction,Kalyan,INDIA,KYN
+225,Bhusaval Junction,Bhusaval,INDIA,BSL
+226,Akola Junction,Akola,INDIA,AK
+227,Kolhapur Railway Station,Kolhapur,INDIA,KOP
+228,Latur Railway Station,Latur,INDIA,LUR
+229,Amravati Railway Station,Amravati,INDIA,AMI
+230,Jalgaon Junction,Jalgaon,INDIA,JL
+231,Dhule Railway Station,Dhule,INDIA,DHI
+232,Chhatrapati Sahu Maharaj Terminus (Kolhapur,Kolhapur,INDIA,CSMT
+233,Pimpri Railway Station,Pimpri-Chinchwad,INDIA,PMP
+234,Vasai Road Railway Station,Vasai-Virar,INDIA,BSR
+235,Jalna Railway Station,Jalna,INDIA,J
+236,Kolkata Howrah Junction,Kolkata,INDIA,HWH
+237,Kolkata Sealdah Railway Station,Kolkata,INDIA,SDAH
+238,Asansol Junction,Asansol,INDIA,ASN
+239,Siliguri Junction,Siliguri,INDIA,SGUJ
+240,Durgapur Railway Station,Durgapur,INDIA,DGR
+241,Malda Town Railway Station,Malda,INDIA,MLDT
+242,Howrah Junction,Howrah,INDIA,HWH
+243,Sealdah Railway Station,Sealdah,INDIA,SDAH
+244,Howrah Junction,Howrah,INDIA,HWH
+245,Asansol Junction,Asansol,INDIA,ASN
+246,Siliguri Junction,Siliguri,INDIA,SGUJ
+247,Durgapur Railway Station,Durgapur,INDIA,DGR
+248,Malda Town Railway Station,Malda,INDIA,MLDT
+249,Berhampore Court Railway Station,Berhampore,INDIA,BPC
+250,Barddhaman Junction,Barddhaman,INDIA,BWN
+251,Howrah Junction,Howrah,INDIA,HWH
+252,Kharagpur Junction,Kharagpur,INDIA,KGP
+253,Bankura Railway Station,Bankura,INDIA,BQA
+254,Murarai Railway Station,Murarai,INDIA,MRR
+255,Ranaghat Junction,Ranaghat,INDIA,RHA
+256,Bengaluru City Railway Station,Bengaluru,INDIA,SBC
+257,Mysuru Junction,Mysuru,INDIA,MYS
+258,Hubballi Junction,Hubballi,INDIA,UBL
+259,Belagavi Railway Station,Belagavi,INDIA,BGM
+260,Ballari Junction,Ballari,INDIA,BAY
+261,Gulbarga Railway Station,Gulbarga,INDIA,GR
+262,Hassan Railway Station,Hassan,INDIA,HAS
+263,Davangere Railway Station,Davangere,INDIA,DVG
+264,Raichur Railway Station,Raichur,INDIA,RC
+265,Shivamogga Town,Shivamogga,INDIA,SME
+266,Tumkur Railway Station,Tumkur,INDIA,TK
+267,Bidar Railway Station,Bidar,INDIA,BIDR
+268,Udupi Railway Station,Udupi,INDIA,UD
+269,Dharwad Railway Station,Dharwad,INDIA,DWR
+270,Bhadravati Railway Station,Bhadravati,INDIA,BDVT
+271,Koppal Railway Station,Koppal,INDIA,KBL
+272,Harihar Railway Station,Harihar,INDIA,HRR
+273,Hospet Junction,Hospet,INDIA,HPT
+274,Chikkamagaluru Railway Station,Chikkamagaluru,INDIA,CMGR
+275,Guwahati Railway Station,Guwahati,INDIA,GHY
+276,Dibrugarh Railway Station,Dibrugarh,INDIA,DBRG
+277,Jorhat Town Railway Station,Jorhat,INDIA,JTTN
+278,Tinsukia Railway Station,Tinsukia,INDIA,TSK
+279,Silchar Railway Station,Silchar,INDIA,SCL
+280,Lumding Junction,Lumding,INDIA,LMG
+281,New Bongaigaon Junction,Bongaigaon,INDIA,NBQ
+282,Barpeta Road Railway Station,Barpeta,INDIA,BPRD
+283,Mariani Junction,Mariani,INDIA,MXN
+284,Rangiya Junction,Rangiya,INDIA,RNY
+285,Diphu Railway Station,Diphu,INDIA,DPU
+286,Badarpur Junction,Badarpur,INDIA,BPB
+287,Hoja Railway Station,Hoja,INDIA,HOJ
+288,Kamakhya Junction,Kamakhya,INDIA,KYQ
+289,Tezpur Railway Station,Tezpur,INDIA,TZTB
+290,Bilasipara Junction,Bilasipara,INDIA,BSPR
+291,New Tinsukia Junction,Tinsukia,INDIA,NTSK
+292,Sibsagar Town Railway Station,Sibsagar,INDIA,SRTN
+293,Mariani Junction,Mariani,INDIA,MXN
+294,Rangiya Junction,Rangiya,INDIA,RNY
+295,Secunderabad Junction,Secunderabad,INDIA,SC
+296,Hyderabad Deccan Nampally,Hyderabad,INDIA,HYB
+297,Kacheguda Railway Station,Hyderabad,INDIA,KCG
+298,Karimnagar Railway Station,Karimnagar,INDIA,KRMR
+299,Nizamabad Junction,Nizamabad,INDIA,NZB
+300,Warangal Railway Station,Warangal,INDIA,WL
+301,Khammam Railway Station,Khammam,INDIA,KMT
+302,Mahbubnagar Railway Station,Mahbubnagar,INDIA,MBNR
+303,Manchiryal Railway Station,Manchiryal,INDIA,MCI
+304,Peddapalli Railway Station,Peddapalli,INDIA,PDPL
+305,Vikarabad Junction,Vikarabad,INDIA,VKB
+306,Nalgonda Railway Station,Nalgonda,INDIA,NLDA
+307,Adilabad Railway Station,Adilabad,INDIA,ADB
+308,Bhongir Railway Station,Bhongir,INDIA,BG
+309,Huzurabad Railway Station,Huzurabad,INDIA,HZB
+310,Jagtial Railway Station,Jagtial,INDIA,JGTL
+311,Kazipet Junction,Kazipet,INDIA,KZJ
+312,Lingampet-Jagityal Railway Station,Lingampet-Jagityal,INDIA,LNJ
+313,Medchal Railway Station,Medchal,INDIA,MED
+314,Nekonda Railway Station,Nekonda,INDIA,NKD
+315,Jiribam Railway Station,Jiribam,INDIA,JRM
+316,Chennai Central Railway Station,Chennai,INDIA,MAS
+317,Chennai Egmore Railway Station,Chennai,INDIA,MS
+318,Coimbatore Junction,Coimbatore,INDIA,CBE
+319,Madurai Junction,Madurai,INDIA,MDU
+320,Tiruchirappalli Junction,Tiruchirappalli,INDIA,TPJ
+321,Salem Junction,Salem,INDIA,SA
+322,Tirunelveli Junction,Tirunelveli,INDIA,TEN
+323,Erode Junction,Erode,INDIA,ED
+324,Vellore Cantonment Railway Station,Vellore,INDIA,VLR
+325,Thoothukudi Junction,Thoothukudi,INDIA,TEN
+326,Kanchipuram Railway Station,Kanchipuram,INDIA,CJ
+327,Nagercoil Junction,Nagercoil,INDIA,NCJ
+328,Tiruppur Railway Station,Tiruppur,INDIA,TUP
+329,Ramanathapuram Railway Station,Ramanathapuram,INDIA,RMD
+330,Karur Railway Station,Karur,INDIA,KRR
+331,Hosur Railway Station,Hosur,INDIA,HSRA
+332,Tindivanam Railway Station,Tindivanam,INDIA,TMV
+333,Cuddalore Junction,Cuddalore,INDIA,CUD
+334,Ooty Railway Station,Ooty,INDIA,UAM
+335,Dindigul Junction,Dindigul,INDIA,DG
+336,Raipur Junction,Raipur,INDIA,R
+337,Bilaspur Junction,Bilaspur,INDIA,BSP
+338,Durg Junction,Durg,INDIA,DURG
+339,Raigarh Railway Station,Raigarh,INDIA,RIG
+340,Korba Railway Station,Korba,INDIA,KRBA
+341,Bhatapara Railway Station,Bhatapara,INDIA,BYT
+342,Rajnandgaon Railway Station,Rajnandgaon,INDIA,RJN
+343,Ambikapur Railway Station,Ambikapur,INDIA,ABKP
+344,Champa Junction,Champa,INDIA,CPH
+345,Bilaspur Junction,Bilaspur,INDIA,BSP
+346,Dongargarh Railway Station,Dongargarh,INDIA,DGG
+347,Janjgir Naila Railway Station,Janjgir,INDIA,NIA
+348,Dalli Rajhara Railway Station,Dalli Rajhara,INDIA,DRZ
+349,Gevra Road Railway Station,Gevra Road,INDIA,GAD
+350,Kharsia Railway Station,Kharsia,INDIA,KHS
+351,Sakti Railway Station,Sakti,INDIA,SKT
+352,Pendra Road Railway Station,Pendra Road,INDIA,PND
+353,Bargarh Road Railway Station,Bargarh,INDIA,BRGA
+354,Anuppur Junction,Anuppur,INDIA,APR
+355,Bilha Railway Station,Bilha,INDIA,BILHA
+356,Dimapur Railway Station,Dimapur,INDIA,DMV
+357,Thiruvananthapuram Central Railway Station,Thiruvananthapuram,INDIA,TVC
+358,Ernakulam Junction,Ernakulam,INDIA,ERS
+359,Kozhikode Railway Station,Kozhikode,INDIA,CLT
+360,Thrissur Railway Station,Thrissur,INDIA,TCR
+361,Kottayam Railway Station,Kottayam,INDIA,KTYM
+362,Kollam Junction,Kollam,INDIA,QLN
+363,Alappuzha Railway Station,Alappuzha,INDIA,ALLP
+364,Palakkad Junction,Palakkad,INDIA,PGT
+365,Kannur Railway Station,Kannur,INDIA,CAN
+366,Kasaragod Railway Station,Kasaragod,INDIA,KGQ
+367,Thiruvalla Railway Station,Thiruvalla,INDIA,TRVL
+368,Angamaly Railway Station,Angamaly,INDIA,AFK
+369,Chengannur Railway Station,Chengannur,INDIA,CNGR
+370,Haripad Railway Station,Haripad,INDIA,HAD
+371,Kayamkulam Junction,Kayamkulam,INDIA,KYJ
+372,Kanjirappalli Railway Station,Kanjirappalli,INDIA,KAR
+373,Idukki Railway Station,Idukki,INDIA,IDK
+374,Punalur Railway Station,Punalur,INDIA,PUU
+375,Shoranur Junction,Shoranur,INDIA,SRR
+376,Calicut Mini (Beypore Railway Station,Calicut Mini (Beypore,INDIA,CLCM
+377,Ahmedabad Railway Station,Ahmedabad,INDIA,ADI
+378,Vadodara Junction,Vadodara,INDIA,BRC
+379,Surat Railway Station,Surat,INDIA,ST
+380,Rajkot Railway Station,Rajkot,INDIA,RJT
+381,Bhavnagar Terminus,Bhavnagar,INDIA,BVC
+382,Jamnagar Railway Station,Jamnagar,INDIA,JAM
+383,Junagadh Junction,Junagadh,INDIA,JND
+384,Bharuch Junction,Bharuch,INDIA,BH
+385,Anand Junction,Anand,INDIA,ANND
+386,Patan Railway Station,Patan,INDIA,PTN
+387,Nadiad Junction,Nadiad,INDIA,ND
+388,Vapi Railway Station,Vapi,INDIA,VAPI
+389,Valsad Railway Station,Valsad,INDIA,BL
+390,Porbandar Railway Station,Porbandar,INDIA,PBR
+391,Gandhidham Junction,Gandhidham,INDIA,GIMB
+392,Bhuj Railway Station,Bhuj,INDIA,BHUJ
+393,Dwarka Railway Station,Dwarka,INDIA,DWK
+394,Navsari Railway Station,Navsari,INDIA,NVS
+395,Bilimora Junction,Bilimora,INDIA,BIM
+396,Ankleshwar Junction,Ankleshwar,INDIA,AKV
+397,Madgaon Junction,Madgaon,INDIA,MAO
+398,Vasco da Gama Railway Station,Vasco da Gama,INDIA,VSG
+399,Thivim Railway Station,Thivim,INDIA,THVM
+400,Karmali Railway Station,Karmali,INDIA,KRMI
+401,Pernem Railway Station,Pernem,INDIA,PNM
+402,Cansaulim Railway Station,Cansaulim,INDIA,CSM
+403,Sanjuje Da Areyal Railway Station,Sanjuje Da Areyal,INDIA,SVDK
+404,Sancoale Railway Station,Sancoale,INDIA,SVM
+405,Balli Railway Station,Balli,INDIA,BLLI
+406,Dabolim Railway Station,Dabolim,INDIA,DBM
+407,Kudchade Railway Station,Kudchade,INDIA,QDC
+408,Kulem Railway Station,Kulem,INDIA,QLM
+409,Curchorem Railway Station,Curchorem,INDIA,CRR
+410,Colem Railway Station,Colem,INDIA,CLM
+411,Chandar Railway Station,Chandar,INDIA,CNDR
+412,Cansarvornem Railway Station,Cansarvornem,INDIA,CSN
+413,Dudhsagar Railway Station,Dudhsagar,INDIA,DDS
+414,Majorda Railway Station,Majorda,INDIA,MJ
+415,Nagargao Railway Station,Nagargao,INDIA,NGG
+416,Shiroda Railway Station,Shiroda,INDIA,SHRD
+417,Bhubaneswar Railway Station,Bhubaneswar,INDIA,BBS
+418,Cuttack Railway Station,Cuttack,INDIA,CTC
+419,Puri Railway Station,Puri,INDIA,PURI
+420,Sambalpur Junction,Sambalpur,INDIA,SBP
+421,Rourkela Railway Station,Rourkela,INDIA,ROU
+422,Balasore Railway Station,Balasore,INDIA,BLS
+423,Brahmapur Railway Station,Brahmapur,INDIA,BAM
+424,Jharsuguda Junction,Jharsuguda,INDIA,JSG
+425,Bhadrak Railway Station,Bhadrak,INDIA,BHC
+426,Angul Railway Station,Angul,INDIA,ANGL
+427,Kendujhargarh Railway Station,Kendujhargarh,INDIA,KDJR
+428,Rayagada Railway Station,Rayagada,INDIA,RGDA
+429,Keonjhar Railway Station,Keonjhar,INDIA,KDJR
+430,Baripada Railway Station,Baripada,INDIA,BPO
+431,Bargarh Road Railway Station,Bargarh,INDIA,BRGA
+432,Jajpur Keonjhar Road Railway Station,Jajpur Keonjhar Road,INDIA,JJKR
+433,Dhenkanal Railway Station,Dhenkanal,INDIA,DNKL
+434,Phulbani Railway Station,Phulbani,INDIA,PHUL
+435,Nuapada Road Railway Station,Nuapada Road,INDIA,NPRD
+436,Agartala Railway Station,Agartala,INDIA,AGTL
+437,Vijayawada Junction,Vijayawada,INDIA,BZA
+438,Visakhapatnam Junction,Visakhapatnam,INDIA,VSKP
+439,Guntur Junction,Guntur,INDIA,GNT
+440,Secunderabad Junction,Secunderabad,INDIA,SC
+441,Tirupati Main Railway Station,Tirupati,INDIA,TPTY
+442,Rajahmundry Railway Station,Rajahmundry,INDIA,RJY
+443,Kakinada Town Railway Station,Kakinada,INDIA,CCT
+444,Nellore Railway Station,Nellore,INDIA,NLR
+445,Ongole Railway Station,Ongole,INDIA,OGL
+446,Eluru Railway Station,Eluru,INDIA,EE
+447,Vizianagaram Junction,Vizianagaram,INDIA,VZM
+448,Tenali Junction,Tenali,INDIA,TEL
+449,Anakapalle Railway Station,Anakapalle,INDIA,AKP
+450,Nidadavolu Junction,Nidadavolu,INDIA,NDD
+451,Chirala Railway Station,Chirala,INDIA,CLX
+452,Gudur Junction,Gudur,INDIA,GDR
+453,Kurnool City Railway Station,Kurnool,INDIA,KRNT
+454,Kadapa Railway Station,Kadapa,INDIA,HX
+455,Nandyal Railway Station,Nandyal,INDIA,NDL
+456,Tadipatri Railway Station,Tadipatri,INDIA,TU

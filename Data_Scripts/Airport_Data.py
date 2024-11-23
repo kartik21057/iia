@@ -1,0 +1,19 @@
+import pandas as pd
+from collections import defaultdict
+
+fake_data = defaultdict(list)
+airport_names = [('Indira Gandhi International Airport', 'Delhi', 'DEL'), ('Chhatrapati Shivaji Maharaj International Airport', 'Mumbai', 'BOM'), ('Kempegowda International Airport', 'Bangalore', 'BLR'),
+     ('Chennai International Airport', 'Chennai', 'MAA'),
+     ('Netaji Subhas Chandra Bose International Airport', 'Kolkata', 'CCU'),
+     ('Rajiv Gandhi International Airport', 'Hyderabad', 'HYD'),
+     ('Cochin International Airport', 'Kochi', 'COK'), ('Pune Airport', 'Pune', 'PNQ'), ('Goa International Airport', 'Dabolim', 'GOI'), ('Sardar Vallabhbhai Patel International Airport', 'Ahmedabad', 'AMD'), ('Jaipur International Airport', 'Jaipur', 'JAI'), ('Thiruvananthapuram International Airport', 'Thiruvananthapuram', 'TRV'), ('Ahmedabad Airport', 'Ahmedabad', 'AMD'), ('Biju Patnaik International Airport', 'Bhubaneswar', 'BBI'), ('Amritsar International Airport', 'Amritsar', 'ATQ'), ('Guwahati International Airport', 'Guwahati', 'GAU'), ('Mangalore Airport', 'Mangalore', 'IXE'), ('Visakhapatnam International Airport', 'Visakhapatnam', 'VTZ'), ('Lucknow Airport', 'Lucknow', 'LKO'), ('Chandigarh International Airport', 'Chandigarh', 'IXC'), ('Indore Airport', 'Indore', 'IDR'), ('Trichy International Airport', 'Tiruchirappalli', 'TRZ'), ('Calicut International Airport', 'Kozhikode', 'CCJ'), ('Vijayawada International Airport', 'Vijayawada', 'VGA'), ('Varanasi Airport', 'Varanasi', 'VNS'), ('Bagdogra Airport', 'Bagdogra', 'IXB'), ('Srinagar International Airport', 'Srinagar', 'SXR'), ('Coimbatore International Airport', 'Coimbatore', 'CJB'), ('Madurai International Airport', 'Madurai', 'IXM'), ('Trivandrum International Airport', 'Thiruvananthapuram', 'TRV'), ('Jodhpur Airport', 'Jodhpur', 'JDH'), ('Leh Kushok Bakula Rimpochee Airport', 'Leh', 'IXL'), ('Bhopal Airport', 'Bhopal', 'BHO'), ('Dehradun Airport', 'Dehradun', 'DED'), ('Jammu Airport', 'Jammu', 'IXJ'), ('Rajkot Airport', 'Rajkot', 'RAJ'), ('Agartala Airport', 'Agartala', 'IXA'), ('Silchar Airport', 'Silchar', 'IXS'), ('Dibrugarh Airport', 'Dibrugarh', 'DIB'), ('Imphal Airport', 'Imphal', 'IMF'), ('Aizawl Airport', 'Aizawl', 'AJL'), ('Port Blair Airport', 'Port Blair', 'IXZ'), ('Udaipur Airport', 'Udaipur', 'UDR'), ('Raipur Airport', 'Raipur', 'RPR'), ('Patna Airport', 'Patna', 'PAT'), ('Ranchi Airport', 'Ranchi', 'IXR'), ('Jabalpur Airport', 'Jabalpur', 'JLR'), ('Allahabad Airport', 'Prayagraj', 'IXD'), ('Kanpur Airport', 'Kanpur', 'KNU'), ('Mysore Airport', 'Mysore', 'MYQ'), ('Surat Airport', 'Surat', 'STV'), ('Belgaum Airport', 'Belgaum', 'IXG'), ('Dharamshala Airport', 'Dharamshala', 'DHM'), ('Bhavnagar Airport', 'Bhavnagar', 'BHU'), ('Tirupati Airport', 'Tirupati', 'TIR'), ('Warangal Airport', 'Warangal', 'WGC'), ('Gwalior Airport', 'Gwalior', 'GWL'), ('Shillong Airport', 'Shillong', 'SHL'), ('Hubli Airport', 'Hubli', 'HBX'), ('Ludhiana Airport', 'Ludhiana', 'LUH'), ('Kannur International Airport', 'Kannur', 'CNN'), ('Pantnagar Airport', 'Pantnagar', 'PGH'), ('Shirdi Airport', 'Shirdi', 'SAG'), ('Kullu Manali Airport', 'Kullu', 'KUU'), ('Jaisalmer Airport', 'Jaisalmer', 'JSA'), ('Kadapa Airport', 'Kadapa', 'CDP'), ('Nagpur Airport', 'Nagpur', 'NAG'), ('Jhansi Airport', 'Jhansi', 'JHS'), ('Muzaffarpur Airport', 'Muzaffarpur', 'MZU'), ('Keshod Airport', 'Keshod', 'IXK'), ('Balurghat Airport', 'Balurghat', 'RGH'), ('Bareilly Airport', 'Bareilly', 'BEK'), ('Birsa Munda Airport', 'Ranchi', 'IXR'), ('Kolhapur Airport', 'Kolhapur', 'KLH'), ('Sheikh ul Alam International Airport', 'Srinagar', 'SXR')]
+
+for i in range(len(airport_names)):
+    fake_data["Airport_ID"].append(i+1)
+    fake_data["Airport_Name"].append(airport_names[i][0])
+    fake_data["City"].append(airport_names[i][1])
+    fake_data["Country"].append("INDIA")
+    fake_data["Code"].append(airport_names[i][2])
+
+df = pd.DataFrame(fake_data)
+df.to_csv("AirportTable.csv",index = False)
