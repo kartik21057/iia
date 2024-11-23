@@ -1,0 +1,19 @@
+{
+    "name": "yourusername/invoice-generator",
+    "description": "A simple invoice generator using PHP and Dompdf",
+    "type": "project",
+    "require": {
+        "dompdf/dompdf": "^1.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Your Name",
+            "email": "you@example.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}

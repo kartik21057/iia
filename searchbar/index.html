@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>City Search</title>
+    <link rel="stylesheet" type="text/css" href="styles.css"> <!-- Include your CSS file if needed -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <h1>City Search</h1>
+    <form>
+        <label for="city">Search for a City:</label>
+        <input type="text" id="city" name="city" onkeyup="getSuggestions(this.value)">
+    </form>
+    <div id="suggestions"></div>
+    
+    <script>
+        function getSuggestions(query) {
+            $.ajax({
+                url: 'search.php',
+                method: 'POST',
+                data: { query: query },
+                success: function(data) {
+                    $('#suggestions').html(data);
+                }
+            });
+        }
+    </script>
+</body>
+</html>

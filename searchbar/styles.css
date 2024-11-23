@@ -1,0 +1,25 @@
+/* Style the suggestion box */
+#suggestions {
+    position: absolute;
+    z-index: 1000;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    max-height: 200px; /* Set the maximum height for the suggestions box */
+    overflow-y: auto; /* Add a scrollbar when content exceeds the maximum height */
+}
+
+/* Style individual suggestion items */
+#suggestions ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+#suggestions li {
+    padding: 5px;
+    cursor: pointer;
+}
+
+#suggestions li:hover {
+    background-color: #f2f2f2;
+}
